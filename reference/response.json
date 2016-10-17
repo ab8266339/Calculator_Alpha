@@ -1,0 +1,22 @@
+{
+    "response": {
+        "card": {
+            "content": "There are currently 28 trains operating. The trains are running normally.",
+            "title": "BART System Status",
+            "type": "Simple"
+        },
+        "outputSpeech": {
+            "text": "There are currently 28 trains operating. The trains are running normally.",
+            "type": "PlainText"
+        },
+        "reprompt": {
+            "outputSpeech": {
+                "text": "",
+                "type": "PlainText"
+            }
+        },
+        "shouldEndSession": false
+    },
+    "sessionAttributes": {},
+    "version": "1.0"
+}

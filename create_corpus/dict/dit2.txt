@@ -1,0 +1,5312 @@
+Abel  Niels Henrik    
+Abel’s formula    
+Absolute convergence (series):
+defined     
+and uniform convergence     
+Absolute frequency (probability):
+of an event      
+cumulative      
+of a value      
+Absolutely integrable nonperiodic
+function         
+Absolute value (complex numbers) 
+   
+Acceleration         
+Acceleration of gravity   
+Acceleration vector     
+Acceptable lots      
+Acceptable quality level (AQL) 
+    
+Acceptance:
+of a hypothesis      
+of products      
+Acceptance number      
+Acceptance sampling            
+    
+errors in           
+rectification           
+Adams  John Couch       
+Adams Bashforth methods          
+   
+Adams Moulton methods          
+   
+Adaptive integration              
+Addition:
+for arbitrary events           
+of complex numbers          
+of matrices and vectors      
+       
+of means           
+for mutually exclusive events 
+    
+of power series     
+termwise          
+of variances           
+vector              
+ADI (alternating direction implicit)
+method         
+Adjacency matrix:
+of a digraph     
+of a graph         
+Adjacent vertices          
+Airy  Sir George Bidell        
+     
+Airy equation     
+RK method         
+RKN method         
+Airy function:
+RK method         
+RKN method         
+Algebraic equations     
+Algebraic multiplicity      
+   
+Algorithms:
+complexity of         
+defined     
+numeric analysis     
+numeric methods as     
+numeric stability of          
+ALGORITHMS:
+BISECT  A  
+DIJKSTRA     
+EULER     
+FORD FULKERSON     
+GAUSS     
+GAUSS SEIDEL     
+INTERPOL     
+KRUSKAL     
+MATCHING      
+MOORE     
+NEWTON     
+PRIM     
+RUNGE KUTTA     
+SIMPSON     
+Aliasing     
+Alternating direction implicit (ADI)
+method         
+Alternating path      
+Alternative hypothesis      
+Ampère  André Marie      
+Amplification    
+Amplitude    
+Amplitude spectrum     
+Analytic functions               
+complex analysis         
+conformal mapping         
+derivatives of                   
+A   A  
+integration of:
+indefinite     
+by use of path         
+Analytic functions (Cont.)
+Laurent series:
+analytics at infinity         
+zeros of         
+maximum modulus theorem 
+       
+mean value property         
+power series representation of 
+       
+real functions vs.     
+Analyticity     
+Angle of intersection:
+conformal mapping     
+between two curves    
+Angular speed (rotation)     
+Angular velocity (fluid flow) 
+   
+AOQ (average outgoing quality) 
+    
+AOQL (average outgoing quality
+limit)      
+Apparent resistance (RLC circuits) 
+  
+Approximation(s):
+errors involved in     
+polynomial     
+by trigonometric polynomials 
+       
+Approximation theory     
+A priori estimates     
+AQL (acceptable quality level)      
+Arbitrary positive     
+Arc  of a curve     
+Archimedes       
+Arc length (curves)         
+Area:
+of a region     
+of region bounded by ellipses 
+   
+of a surface         
+Argand  Jean Robert       
+Argand diagram       
+Argument (complex numbers)     
+Artificial variables         
+Assignment problems (combinatorial
+optimization)           
+Associative law     
+Asymptotically equal            
+    
+Asymptotically normal      
+I  Index
+Asymptotically stable critical points 
+   
+Augmented matrices                
+             
+Augmenting path           . See
+also Flow augmenting paths
+Autonomous ODEs        
+Autonomous systems          
+Auxiliary equation    . See also
+Characteristic equation
+Average flow     
+Average outgoing quality (AOQ) 
+    
+Average outgoing quality limit
+(AOQL)      
+Axioms of probability      
+Back substitution (linear systems) 
+            
+Backward edges:
+cut sets     
+initial flow     
+of a path     
+Backward Euler formula     
+Backward Euler method (BEM):
+first order ODEs         
+stiff systems         
+Backward Euler scheme     
+Balance law    
+Band matrices     
+Bashforth  Francis       
+Basic feasible solution:
+normal form of linear optimization
+problems     
+simplex method     
+Basic Rule (method of undetermined
+coefficients):
+higher order homogeneous linear
+ODEs     
+second order nonhomogeneous
+linear ODEs        
+Basic variables     
+Basis:
+eigenvectors         
+of solutions:
+higher order linear ODEs      
+        
+homogeneous linear systems 
+   
+homogeneous ODEs        
+                 
+second order homogeneous
+linear ODEs            
+   
+systems of ODEs     
+standard     
+vector spaces               
+Beats (oscillation)    
+Bellman  Richard       
+Bellman equations     
+Bellman’s principle         
+Bell shaped curve         
+BEM  see Backward Euler method
+Benoulli  Niklaus      
+Bernoulli  Daniel      
+Bernoulli  Jakob      
+Bernoulli  Johann      
+Bernoulli distribution      . See also
+Binomial distributions
+Bernoulli equation    
+defined    
+linear ODEs       
+Bernoulli’s law of large numbers 
+    
+Bessel  Friedrich Wilhelm       
+Bessel functions                   
+of the first kind         
+with half integer v         
+of order       
+of order v     
+orthogonality of     
+of the second kind:
+general solution         
+of order v         
+table  A   A  
+of the third kind     
+Bessel’s equation               
+   
+Bessel functions               
+       
+circular membrane     
+general solution         
+Bessel’s inequality:
+for Fourier coefficients     
+orthogonal series         
+Beta function  formula for  A  
+Bezier curve     
+BFS algorithms  see Breadth First
+search algorithms
+Bijective mapping       
+Binomial coefficients:
+Newton’s forward difference
+formula     
+probability theory           
+Binomial distributions            
+    
+normal approximation of 
+         
+sampling with replacement for 
+    
+table  A  
+Binomial series     
+Binomial theorem      
+Bipartite graphs                 
+BISECT  ALGORITHM  A  
+Bisection method         
+Bolzano  Bernard  A    
+Bolzano Weierstrass theorem 
+A   A  
+Bonnet  Ossian       
+Bonnet’s recursion     
+Borda  J. C.      
+Boundaries:
+ODEs    
+of regions       
+sets in complex plane     
+Boundary conditions:
+one dimensional heat equation 
+   
+PDEs          
+periodic     
+two dimensional wave equation 
+   
+vibrating string         
+Boundary points       
+Boundary value problem (BVP)     
+conformal mapping for          
+A  
+first  see Dirichlet problem
+mixed  see Mixed boundary value
+problem
+second  see Neumann problem
+third  see Mixed boundary value
+problem
+two dimensional heat equation 
+   
+Bounded domains     
+Bounded regions       
+Bounded sequence  A   A  
+Boxplots      
+Boyle  Robert      
+Boyle Mariotte’s law for idea gases 
+  
+Bragg  Sir William Henry       
+Bragg  Sir William Lawrence       
+Branch  of logarithm     
+Branch cut  of logarithm     
+Branch point (Riemann surfaces)     
+Breadth First search (BFS)
+algorithms     
+defined          
+Moore’s         
+BVP  see Boundary value problem
+CAD (computer aided design)     
+Cancellation laws         
+Canonical form     
+Cantor  Georg  A    
+Cantor Dedekind axiom  A     
+A    
+Capacity:
+cut sets     
+networks     
+Cardano  Girolamo       
+Cardioid          
+Index I 
+Cartesian coordinates:
+linear element in  A  
+transformation law  A   A  
+vector product in  A   A  
+writing  A  
+Cartesian coordinate systems:
+complex plane     
+left handed            A  
+right handed           A   A  
+in space          
+transformation law for vector
+components  A   A  
+Cartesius  Renatus       
+Cauchy  Augustin Louis       
+            
+Cauchy determinant     
+Cauchy Goursat theorem  see
+Cauchy’s integral theorem
+Cauchy Hadamard formula     
+Cauchy principal value          
+Cauchy Riemann equations         
+complex analysis         
+proof of  A   A  
+Cauchy Schwarz inequality      
+       
+Cauchy’s convergence principle 
+         A   A  
+Cauchy’s inequality     
+Cauchy’s integral formula          
+   
+Cauchy’s integral theorem          
+   
+existence of indefinite integral 
+       
+Goursat’s proof of  A   A  
+independence of path     
+for multiply connected domains 
+       
+principle of deformation of path 
+   
+Cayley  Arthur       
+c charts      
+Center:
+as critical point          
+of a graph     
+of power series     
+Center control line (CL)      
+Center of gravity  of mass in a
+region     
+Central difference notation     
+Central limit theorem      
+Central vertex     
+Centrifugal force     
+Centripetal acceleration         
+Chain rules         
+Characteristics     
+Characteristics  method of     
+Characteristic determinant  of a
+matrix                         
+Characteristic equation:
+matrices                         
+PDEs     
+second order homogeneous linear
+ODEs    
+Characteristic matrix     
+Characteristic polynomial           
+   
+Characteristic values              .
+See also Eigenvalues
+Characteristic vectors          . See
+also eigenvectors
+Chebyshev  Pafnuti       
+Chebyshev equation     
+Chebyshev polynomials     
+Checkerboard pattern (determinants) 
+   
+Chi square ( ) distribution 
+           A   
+Chi square ( ) test            
+    
+Choice of numeric method  for matrix
+eigenvalue problems     
+Cholesky  André Louis       
+Cholesky’s method              
+Chopping  error caused by     
+Chromatic number      
+Circle     
+Circle of convergence (power series) 
+   
+Circulation  of flow          
+CL (center control line)      
+Clairaut equation    
+Clamped condition (spline
+interpolation)     
+Class intervals      
+Class marks      
+Closed annulus     
+Closed circular disk     
+Closed integration formulas          
+Closed intervals  A    
+Closed Newton Cotes formulas     
+Closed paths                   
+Closed regions       
+Closed sets     
+Closed trails         
+Closed walks         
+CN (Crank Nicolson) method 
+       
+Coefficients:
+binomial:
+Newton’s forward difference
+formula     
+probability theory           
+constant:
+higher order homogeneous
+linear ODEs         
+second order homogeneous
+linear ODEs       
+ 
+ 
+Coefficients: (Cont.)
+second order nonhomogeneous
+linear ODEs    
+systems of ODEs         
+correlation                 
+Fourier                        
+of kinetic friction    
+of linear systems          
+of ODEs    
+higher order homogeneous
+linear ODEs     
+second order homogeneous
+linear ODEs           
+second order nonhomogeneous
+linear ODEs       
+series of ODEs          
+variable              
+of power series     
+regression                 
+variable:
+Frobenius method         
+Laplace transforms ODEs
+with         
+of ODEs              
+power series method         
+second order homogeneous
+linear ODEs    
+Coefficient matrices          
+Hermitian or skew Hermitian
+forms     
+linear systems     
+quadratic form     
+Cofactor (determinants)     
+Collatz  Lothar       
+Collatz inclusion theorem         
+Columns:
+determinants     
+matrix               
+Column “sum” norm     
+Column vectors     
+matrices                   
+rank in terms of         
+Combinations (probability theory) 
+               
+of n things taken k at a time
+without repetitions      
+of n things taken k at a time with
+repetitions      
+Combinatorial optimization      
+        
+assignment problems           
+flow problems in networks 
+       
+cut sets         
+flow augmenting paths 
+       
+paths     
+Ford Fulkerson algorithm for
+maximum flow          
+I  Index
+Combinatorial optimization (Cont.)
+shortest path problems         
+Bellman’s principle         
+complexity of algorithms 
+       
+Dijkstra’s algorithm         
+Moore’s BFS algorithm 
+       
+shortest spanning trees:
+Greedy algorithm         
+Prim’s algorithm         
+Commutation (matrices)     
+Complements:
+of events      
+of sets in complex plane     
+Complementation rule 
+         
+Complete bipartite graphs      
+Complete graphs     
+Complete matching      
+Completeness (orthogonal series) 
+       
+Complete orthonormal set     
+Complex analysis     
+analytic functions         
+Cauchy Riemann equations 
+       
+circles and disks     
+complex functions         
+exponential         
+general powers         
+hyperbolic     
+logarithm         
+trigonometric         
+complex integration         
+Cauchy’s integral formula 
+            
+Cauchy’s integral theorem 
+            
+derivatives of analytic
+functions         
+Laurent series         
+line integrals              
+power series         
+residue integration         
+complex numbers         
+addition of          
+conjugate     
+defined     
+division of     
+multiplication of          
+polar form of         
+subtraction of     
+complex plane     
+conformal mapping         
+geometry of analytic functions 
+       
+linear fractional
+transformations 
+       
+Complex analysis (Cont.)
+Riemann surfaces         
+by trigonometric and
+hyperbolic analytic
+functions         
+half planes         
+harmonic functions         
+Laplace’s equation         
+Laurent series              
+analytic or singular at infinity 
+       
+point at infinity     
+Riemann sphere     
+singularities         
+zeros of analytic functions     
+power series              
+convergence behavior of 
+       
+convergence tests          
+A   A  
+functions given by         
+Maclaurin series     
+in powers of x     
+radius of convergence 
+       
+ratio test         
+root test         
+sequences         
+series         
+Taylor series         
+uniform convergence 
+       
+residue integration         
+formulas for residues         
+of real integrals         
+several singularities inside
+contour         
+Taylor series              
+Complex conjugate numbers     
+Complex conjugate roots       
+Complex Fourier integral     
+Complex functions         
+exponential         
+general powers         
+hyperbolic     
+logarithm         
+trigonometric         
+Complex heat potential     
+Complex integration         
+Cauchy’s integral formula 
+            
+Cauchy’s integral theorem 
+            
+existence of indefinite integral 
+       
+independence of path     
+for multiply connected
+domains         
+principle of deformation of
+path     
+Complex integration (Cont.)
+derivatives of analytic functions 
+       
+Laurent series         
+analytic or singular at infinity 
+       
+point at infinity     
+Riemann sphere     
+singularities         
+zeros of analytic functions 
+       
+line integrals              
+basic properties of     
+bounds for         
+definition of         
+existence of     
+indefinite integration and
+substitution of limits 
+       
+representation of a path 
+       
+power series         
+convergence behavior of 
+       
+convergence tests         
+functions given by         
+Maclaurin series     
+radius of convergence of 
+       
+ratio test         
+root test         
+sequences         
+series         
+Taylor series         
+uniform convergence 
+       
+residue integration         
+formulas for residues         
+of real integrals         
+several singularities inside
+contour         
+Complexity  of algorithms         
+Complex line integrals  see Line
+integrals
+Complex matrices and forms 
+       
+Complex numbers              
+addition of          
+conjugate     
+defined     
+division of     
+multiplication of          
+polar form of         
+subtraction of     
+Complex plane     
+extended              
+sets in     
+Complex potential     
+electrostatic fields         
+of fluid flow              
+Index I 
+Complex roots:
+higher order homogeneous linear
+ODEs:
+multiple     
+simple         
+second order homogeneous linear
+ODEs       
+Complex trigonometric polynomials 
+   
+Complex variables         
+Complex vector space           
+   
+Components (vectors)               
+Composition  of linear
+transformations         
+Computer aided design (CAD)     
+Condition:
+of incompressibility     
+spline interpolation     
+Conditionally convergent series     
+Conditional probability            
+    
+Condition number              
+Confidence intervals       
+               
+interval estimates      
+for mean of normal distribution:
+with known variance 
+         
+with unknown variance 
+         
+for parameters of distributions
+other than normal      
+in regression analysis           
+for variance of a normal
+distribution           
+Confidence level      
+Conformality     
+Conformal mapping         
+boundary value problems 
+         A  
+defined     
+geometry of analytic functions 
+       
+linear fractional transformations 
+       
+extended complex plane 
+       
+mapping standard domains 
+       
+Riemann surfaces         
+by trigonometric and hyperbolic
+analytic functions 
+       
+Connected graphs               
+Connected set  in complex plane 
+   
+Conservative physical systems     
+Conservative vector fields          
+Consistent linear systems     
+Constant coefficients:
+higher order homogeneous linear
+ODEs         
+distinct real roots         
+multiple real roots         
+simple complex roots         
+second order homogeneous linear
+ODEs       
+complex roots       
+real double root       
+two distinct real roots       
+second order nonhomogeneous
+linear ODEs    
+systems of ODEs         
+critical points          
+       
+graphing solutions in phase
+plane         
+Constant of gravity  at the Earth’s
+surface    
+Constant of integration    
+Constant revenue  lines of     
+Constrained (linear) optimization 
+                 
+normal form of problems         
+simplex method         
+degenerate feasible solution 
+       
+difficulties in starting         
+Constraints     
+Consumers      
+Consumer’s risk      
+Consumption matrix     
+Continuity equation (compressible
+fluid flow)     
+Continuous complex functions     
+Continuous distributions       
+         
+marginal distribution of      
+two dimensional      
+Continuous random variables       
+               
+Continuous vector functions         
+Contour integral     
+Contour lines        
+Control charts      
+for mean           
+for range           
+for standard deviation      
+for variance           
+Controlled variables  in regression
+analysis      
+Control limits            
+Control variables     
+Convergence:
+absolute:
+defined     
+and uniform convergence     
+of approximate and exact
+solutions     
+Convergence: (Cont.)
+circle of     
+defined     
+Gauss Seidel iteration         
+mean square (orthogonal series) 
+       
+in the norm     
+power series         
+convergence tests          
+A   A  
+radius of convergence of 
+            
+uniform convergence         
+radius of     
+defined     
+power series              
+sequence of vectors     
+speed of (numeric analysis) 
+       
+superlinear     
+uniform:
+and absolute convergence     
+power series         
+Convergence interval          
+Convergence tests         
+power series           A   A  
+uniform convergence         
+Convergent iteration processes 
+   
+Convergent sequence of functions 
+            
+Convergent series          
+Convolution:
+defined     
+Fourier transforms         
+Laplace transforms         
+Convolution theorem         
+Coriolis  Gustave Gaspard       
+Coriolis acceleration         
+Corrector (improved Euler method) 
+   
+Correlation analysis       
+               
+defined      
+test for correlation coefficient 
+         
+Correlation coefficient            
+    
+Cosecant  formula for  A  
+Cosine function:
+conformal mapping by     
+formula for  A   A  
+Cosine integral:
+formula for  A  
+table  A  
+Cosine series     
+Cotangent  formula for  A  
+Coulomb  Charles Augustin de 
+                 
+Coulomb’s law         
+I  Index
+Covariance:
+in correlation analysis      
+defined      
+Cramer  Gabriel             
+Cramer’s rule                   
+for three equations     
+for two equations     
+Cramer’s Theorem     
+Crank  John       
+Crank Nicolson (CN) method 
+       
+Critical damping        
+Critical points         
+asymptotically stable     
+and conformal mapping          
+constant coefficient systems of
+ODEs         
+center     
+criteria for         
+degenerate node         
+improper node     
+proper node     
+saddle point     
+spiral point         
+stability of         
+isolated     
+nonlinear systems     
+stable          
+stable and attractive          
+unstable          
+Critical region      
+Cross product          . See also
+Vector product
+Crout  Prescott Durand       
+Crout’s method          
+Cubic spline     
+Cumulative absolute frequencies (of
+values)      
+Cumulative distribution functions 
+    
+Cumulative relative frequencies (of
+values)      
+Curl  A  
+invariance of  A   A  
+of vector fields              
+Curvature  of a curve         
+Curves:
+arc of     
+bell shaped         
+Bezier     
+deflection     
+elastic     
+equipotential              
+one parameter family of       
+operating characteristic       
+          
+oriented     
+orthogonal coordinate  A  
+parameter     
+plane     
+Curves: (Cont.)
+regression      
+simple     
+simple closed     
+smooth          
+solution     
+twisted     
+vector differential calculus 
+            
+arc length of         
+length of     
+in mechanics         
+tangents to         
+and torsion         
+Curve fitting         
+method of least squares         
+by polynomials of degree m 
+       
+Curvilinear coordinates            A  
+Cut sets               
+Cycle (paths)          
+Cylindrical coordinates          
+A   A  
+D’Alembert  Jean le Rond       
+D’Alembert’s solution         
+Damped oscillations    
+Damping constant    
+Dantzig  George Bernard     
+Data processing:
+frequency distributions 
+         
+and randomness      
+Data representation:
+frequency distributions 
+         
+Empirical Rule      
+graphic      
+mean           
+standard deviation      
+variation      
+and randomness      
+Decisions:
+false  risks of making      
+statistics for           
+Dedekind  Richard  A    
+Defect (eigenvalue)     
+Defectives      
+Definite integrals  complex  see Line
+integrals
+Deflection curve     
+Deformation of path  principle of 
+   
+Degenerate feasible solution (simplex
+method)         
+Degenerate node         
+Degrees of freedom (d.f.)  number of 
+          
+Degree of incidence     
+Degree of precision (DP)     
+Deleted neighborhood     
+Demand vector     
+De Moivre  Abraham       
+De Moivre Laplace limit theorem 
+    
+De Moivre’s formula     
+De Morgan’s laws      
+Density      
+continuous two dimensional
+distributions      
+of a distribution      
+Dependent random variables       
+    
+Dependent variables                 
+Depth First Search (DFS) algorithms 
+   
+Derivatives:
+of analytic functions          
+         A   A  
+of complex functions          
+Laplace transforms of         
+of matrices or vectors     
+of vector functions         
+Derived series     
+Descartes  René              
+Determinants              
+Cauchy     
+Cramer’s rule         
+defined  A  
+general properties of         
+of a matrix     
+of matrix products         
+of order n     
+proof of  A   A  
+second order         
+second order homogeneous linear
+ODEs    
+third order         
+Vandermonde     
+Wronski:
+second order homogeneous
+linear ODEs       
+systems of ODEs     
+Developed  in a power series     
+D.f. (degrees of freedom)  number of 
+          
+DFS (Depth First Search) algorithms 
+   
+DFTs (discrete Fourier transforms) 
+       
+Diagonalization of matrices         
+Diagonally dominant matrices     
+Diagonal matrices     
+inverse of         
+scalar     
+Diameter (graphs)     
+Difference:
+complex numbers     
+scalar multiplication     
+Index I 
+Difference equations (elliptic PDEs) 
+       
+Difference quotients     
+Difference table     
+Differentiable complex functions 
+       
+Differentiable vector functions     
+Differential (total differential) 
+      
+Differential equations:
+applications of   
+defined   
+Differential form     
+exact         
+first fundamental form  of S     
+floating point  of numbers 
+       
+path independence and exactness
+of          
+Differential geometry     
+Differential operators:
+second order    
+for second order homogeneous
+linear ODEs       
+Differentiation:
+of Laplace transforms         
+matrices or vectors     
+numeric         
+of power series              
+termwise                   
+Diffusion equation              .
+See also Heat equation
+Digraphs (directed graphs)          
+    
+computer representation of 
+       
+defined     
+incidence matrix of     
+subgraphs     
+Dijkstra  Edsger Wybe       
+Dijkstra’s algorithm          
+    
+DIJKSTRA  ALGORITHM     
+Dimension of vector spaces      
+        
+Diocles       
+Dirac  Paul       
+Dirac delta function              
+Directed graphs  see Digraphs
+(directed graphs)
+Directed path      
+Directional derivatives (scalar
+functions)              
+Direction field (slope field)          
+Direct methods (linear system
+solutions)          . See also
+iteration
+Dirichlet  Peter Gustav LeJeune 
+     
+Dirichlet boundary condition     
+Dirichlet problem          
+ADI method     
+heat equation         
+Laplace equation          
+                
+Poisson equation         
+two dimensional heat equation 
+       
+uniqueness theorem for          
+Dirichlet’s discontinuous factor     
+Discharge (flow modeling)     
+Discrete distributions           
+marginal distributions of 
+         
+two dimensional           
+Discrete Fourier transforms (DFTs) 
+       
+Discrete random variables       
+               
+defined      
+marginal distributions of      
+Discrete spectrum     
+Disjoint events      
+Disks:
+circular  open and closed     
+mapping         
+Poisson’s integral formula         
+Dissipative physical systems     
+Distance:
+graphs     
+vector norms     
+Distinct real roots:
+higher order homogeneous linear
+ODEs         
+second order homogeneous linear
+ODEs       
+Distinct roots (Frobenius method) 
+   
+Distributions       . See also
+Frequency distributions;
+Probability distributions
+Distribution free tests      
+Distribution function           
+cumulative      
+normal distributions           
+of random variables        A   
+sample      
+two dimensional probability
+distributions           
+Distributive laws     
+Distributivity     
+Divergence  A  
+fluid flow     
+of vector fields         
+of vector functions          
+Divergence theorem of Gauss      
+   
+applications         
+vector integral calculus         
+Divergent sequence     
+Divergent series          
+Division  of complex numbers      
+       
+Domain(s)     
+bounded     
+doubly connected          
+of f     
+holes of     
+mapping              
+multiply connected:
+Cauchy’s integral formula 
+       
+Cauchy’s integral theorem 
+       
+p fold connected         
+sets in complex plane     
+simply connected                
+   
+triply connected               
+Dominant eigenvalue     
+Doolittle  Myrick H.       
+Doolittle’s method              
+Dot product          . See also Inner
+product
+Double Fourier series:
+defined     
+rectangular membrane         
+Double integrals (vector integral
+calculus)              
+applications of         
+change of variables in         
+evaluation of  by two successive
+integrations         
+Double precision  floating point
+standard for     
+Double root (Frobenius method)     
+Double subscript notation     
+Doubly connected domains          
+DP (degree of precision)     
+Driving force  see Input (driving
+force)
+Duffing equation     
+Duhamel  Jean Marie Constant 
+     
+Duhamel’s formula     
+Eccentricity  of vertices     
+Edges:
+backward:
+cut sets     
+initial flow     
+of a path     
+forward:
+cut sets     
+initial flow     
+of a path     
+graphs           
+incident     
+Edge chromatic number      
+I  Index
+Edge condition     
+Edge incidence list (graphs)     
+Efficient algorithms     
+Eigenbases         
+Eigenfunctions     
+circular membrane     
+one dimensional heat equation 
+   
+Sturm Liouville Problems 
+       
+two dimensional heat equation 
+   
+two dimensional wave equation 
+        
+vibrating string     
+Eigenfunction expansion     
+Eigenspaces          
+Eigenvalues                         
+        . See also Matrix
+eigenvalue problems
+circular membrane     
+complex matrices         
+and critical points     
+defined     
+determining         
+dominant     
+finding         
+one dimensional heat equation 
+   
+Sturm Liouville Problems 
+         A  
+two dimensional wave equation 
+   
+vibrating string     
+Eigenvalues of A     
+Eigenvalue problem     
+Eigenvectors                    
+        
+basis of         
+convergent sequence of     
+defined     
+determining         
+finding         
+Eigenvectors of A     
+EISPACK     
+Elastic curve     
+Electric circuits:
+analogy of electrical and
+mechanical quantities 
+     
+second order nonhomogeneous
+linear ODEs       
+Electrostatic fields (potential theory) 
+       
+complex potential         
+superposition         
+Electrostatic potential     
+Electrostatics (Laplace’s equation) 
+   
+Elementary matrix     
+Elementary row operations (linear
+systems)     
+Ellipses  area of region bounded by 
+   
+Elliptic PDEs:
+defined     
+numeric analysis         
+ADI method         
+difference equations         
+Dirichlet problem         
+irregular boundary         
+mixed boundary value
+problems         
+Neumann problem     
+Empirical Rule      
+Energies     
+Entire function                    
+Entries:
+determinants     
+matrix          
+Equal complex numbers     
+Equality:
+of matrices          
+of vectors     
+Equally likely events      
+Equal spacing (interpolation):
+Newton’s backward difference
+formula         
+Newton’s forward difference
+formula         
+Equilibrium harvest    
+Equilibrium solutions (equilibrium
+points)       
+Equipotential curves              
+Equipotential lines    
+electrostatic fields          
+fluid flow     
+Equipotential surfaces     
+Equivalent vector norms     
+Error(s):
+in acceptance sampling 
+         
+of approximations     
+in numeric analysis     
+basic error principle     
+error propagation     
+errors of numeric results 
+       
+roundoff     
+in statistical tests           
+and step size control         
+trapezoidal rule     
+vector norms     
+Error bounds     
+Error estimate     
+Error function       A   A    A  
+Essential singularity         
+Estimation of parameters      
+EULER  ALGORITHM     
+Euler  Leonhard            
+Euler Cauchy equations        
+   
+higher order nonhomogeneous
+linear ODEs         
+Laplace’s equation     
+third order  IVP for     
+Euler Cauchy method     
+Euler constant     
+Euler formulas    
+complex Fourier integral     
+derivation of         
+exponential function     
+Fourier coefficients given by      
+   
+generalized     
+Taylor series     
+trigonometric function     
+Euler graph     
+Euler’s method:
+defined    
+error of                   
+first order ODEs                
+backward method         
+improved method         
+higher order ODEs         
+Euler trail     
+Even functions         
+Even periodic extension         
+Events (probability theory) 
+               
+addition rule for           
+arbitrary           
+complements of      
+defined      
+disjoint      
+equally likely      
+independent           
+intersection            
+mutually exclusive            
+simple      
+union           
+Exact differential equation    
+Exact differential form          
+Exact ODEs           
+defined    
+integrating factors       
+Existence  problem of    
+Existence theorems:
+cubic splines     
+first order ODEs       
+homogeneous linear ODEs:
+higher order     
+second order    
+of the inverse         
+Laplace transforms         
+linear systems     
+power series solutions     
+systems of ODEs     
+Expectation                  
+    
+Index I 
+Experiments:
+defined            
+in probability theory           
+random                       
+Experimental error     
+Explicit formulas     
+Explicit method:
+heat equation              
+wave equation     
+Explicit solution    
+Exponential decay      
+Exponential function              
+formula for  A  
+Taylor series     
+Exponential growth   
+Exponential integral  formula for  A  
+Exposed vertices            
+Extended complex plane:
+conformal mapping         
+defined     
+Extended method (separable ODEs) 
+     
+Extended problems     
+Extrapolation     
+Extrema (unconstrained
+optimization)     
+Factorial function        A    A  .
+See also Gamma functions
+Failing to reject a hypothesis      
+Fair die            
+False decisions  risks of making 
+    
+False position  method of         
+Family of curves  one parameter 
+     
+Family of solutions   
+Faraday  Michael      
+Fast Fourier transforms (FFTs) 
+       
+F distribution        A    A   
+Feasibility region     
+Feasible solutions         
+basic          
+degenerate         
+normal form of linear optimization
+problems     
+Fehlberg  E.     
+Fehlberg’s fifth order RK method 
+       
+Fehlberg’s fourth order RK method 
+       
+FFTs (fast Fourier transforms) 
+       
+Fibonacci (Leonardo of Pisa)       
+Fibonacci numbers     
+Fibonacci’s rabbit problem     
+Finite complex plane     . See also
+Complex plane
+Finite jumps     
+First boundary value problem  see
+Dirichlet problem
+First fundamental form  of S     
+First order method  Euler method as 
+   
+First order ODEs          
+defined   
+direction fields      
+Euler’s method       
+exact           
+defined    
+integrating factors       
+explicit form   
+geometric meanings of      
+implicit form   
+initial value problem       
+linear       
+Bernoulli equation       
+homogeneous    
+nonhomogeneous       
+population dynamics       
+modeling     
+numeric analysis         
+Adams Bashforth methods 
+       
+Adams Moulton methods 
+       
+backward Euler method 
+       
+Euler’s method         
+improved Euler’s method 
+       
+multistep methods         
+Runge Kutta Fehlberg
+method         
+Runge Kutta methods 
+       
+orthogonal trajectories       
+separable           
+extended method       
+modeling       
+systems of     
+transformation of systems to 
+       
+First (first order) partial derivatives 
+A  
+First shifting theorem (s shifting) 
+       
+First transmission line equation     
+Fisher  Sir Ronald Aylmer      
+Fixed points:
+defined     
+of a mapping     
+Fixed point iteration (numeric
+analysis)              
+Fixed point systems  numbers in     
+Floating     
+Floating point form of numbers 
+       
+Flow augmenting paths          
+         
+Flow problems in networks
+(combinatorial optimization) 
+       
+cut sets         
+flow augmenting paths         
+paths     
+Fluid flow:
+Laplace’s equation     
+potential theory         
+Fluid state     
+Flux (motion of a fluid)     
+Flux integral          
+Forced motions        
+Forced oscillations:
+Fourier analysis         
+second order nonhomogeneous
+linear ODEs       
+damped       
+resonance       
+undamped       
+Forcing function    
+Ford  Lester Randolph  Jr.       
+FORD FULKERSON 
+ALGORITHM     
+Ford Fulkerson algorithm for
+maximum flow           
+    
+Forest (graph)     
+Form(s):
+canonical     
+complex     
+differential     
+exact         
+path independence and
+exactness of     
+Hesse’s normal     
+Lagrange’s     
+normal (linear optimization
+problems)               
+   
+Pfaffian     
+polar  of complex numbers 
+            
+quadratic              
+reduced echelon     
+row echelon         
+skew Hermitian and Hermitian 
+   
+standard:
+first order ODEs    
+higher order homogeneous
+linear ODEs     
+higher order linear ODEs     
+power series method     
+second order linear ODEs     
+   
+triangular (Gauss elimination) 
+   
+I   Index
+Forward edge:
+cut sets     
+initial flow     
+of a path     
+Four color theorem      
+Fourier  Jean Baptiste Joseph       
+Fourier analysis         
+approximation by trigonometric
+polynomials         
+forced oscillations         
+Fourier integral         
+applications         
+complex form of         
+sine and cosine         
+Fourier series         
+convergence and sum of 
+       
+derivation of Euler formulas 
+       
+even and odd functions 
+       
+half range expansions         
+from period   to  L 
+       
+Fourier transforms         
+complex form of Fourier
+integral         
+convolution         
+cosine              
+discrete         
+fast         
+and its inverse         
+linearity         
+sine              
+spectrum representation     
+orthogonal series (generalized
+Fourier series)         
+completeness         
+mean square convergence 
+       
+Sturm Liouville Problems 
+       
+eigenvalues  eigenfunctions 
+       
+orthogonal functions         
+Fourier Bessel series              
+Fourier coefficients                
+       
+Fourier constants         
+Fourier cosine integral         
+Fourier cosine series               
+Fourier cosine transforms          
+   
+Fourier cosine transform method     
+Fourier integrals              
+applications         
+complex form of         
+heat equation         
+residue integration         
+sine and cosine         
+p
+Fourier Legendre series          
+       
+Fourier matrix     
+Fourier series              
+convergence and sum or         
+derivation of Euler formulas 
+       
+double         
+even and odd functions         
+half range expansions         
+heat equation         
+from period   to  L         
+Fourier sine integral         
+Fourier sine series               
+one dimensional heat equation 
+   
+vibrating string     
+Fourier sine transforms          
+   
+Fourier transforms              
+complex form of Fourier integral 
+       
+convolution         
+cosine                   
+defined          
+discrete         
+fast         
+heat equation         
+and its inverse         
+linearity of         
+sine                   
+spectrum representation     
+Fourier transform method     
+Four point formulas     
+Fraction defective chars           
+Francis  J. G. F.     
+Fredholm  Erik Ivar              
+Free condition (spline interpolation) 
+   
+Free oscillations of mass spring
+system (second order ODEs) 
+     
+critical damping        
+damped system       
+overdamping       
+undamped system       
+underdamping        
+Frenet  Jean Frédéric     
+Frenet formulas     
+Frequency (in statistics):
+absolute            
+cumulative absolute      
+cumulative relative      
+relative class      
+Frequency (of vibrating string)     
+Frequency distributions  mean and
+variance of:
+expectation           
+moments      
+transformation of           
+p
+Fresnel  Augustin         A    
+Fresnel integrals       A  
+Frobenius  Georg       
+Frobenius method               
+   
+indicial equation         
+proof of  A   A  
+typical applications         
+Frobenius norm     
+Fulkerson  Delbert Ray       
+Function  of complex variable 
+       
+Function spaces     
+Fundamental matrix     
+Fundamental period     
+Fundamental region (exponential
+function)     
+Fundamental system         . See
+also Basis  of solutions
+Fundamental Theorem:
+higher order homogeneous linear
+ODEs     
+for linear systems     
+PDEs         
+second order homogeneous linear
+ODEs    
+Galilei  Galileo      
+Gamma functions              
+formula for  A   A  
+incomplete  A  
+table  A  
+GAMS (Guide to Available
+Mathematical Software)     
+GAUSS  ALGORITHM     
+Gauss  Carl Friedrich        
+           
+Gauss distribution      . See also
+Normal distributions
+Gauss “Double Ring ”    
+Gauss elimination          
+linear systems          
+            
+back substitution          
+   
+elementary row operations 
+   
+if infinitely many solutions
+exist     
+if no solution exists         
+operation count         
+row echelon form         
+operation count         
+Gauss integration formulas      
+            
+Gauss Jordan elimination          
+       
+GAUSS SEIDEL  ALGORITHM 
+   
+Index I  
+Gauss Seidel iteration          
+   
+Gauss’s hypergeometric ODE      
+   
+Geiger  H.            
+Generalized Euler formula     
+Generalized Fourier series  see
+Orthogonal series
+Generalized solution (vibrating
+string)     
+Generalized triangle inequality     
+General powers              
+General solution:
+Bessel’s equation         
+first order ODEs       
+higher order linear ODEs      
+            
+nonhomogeneous linear systems 
+   
+second order linear ODEs:
+homogeneous               
+   
+nonhomogeneous       
+systems of ODEs              
+Generating functions          
+Geometric interpretation:
+partial derivatives  A  
+scalar triple product          
+Geometric multiplicity          
+Geometric series          
+Taylor series     
+uniformly convergent     
+Gerschgorin  Semyon Aranovich 
+     
+Gerschgorin’s theorem              
+Gibbs phenomenon     
+Global error     
+Golden Rule        
+Gompertz model    
+Goodness of fit           
+Gosset  William Sealy        
+Goursat  Édouard       
+Goursat’s proof     
+Gradient  A  
+fluid flow     
+of a scalar field         
+directional derivatives 
+       
+maximum increase     
+as surface normal vector 
+       
+vector fields that are         
+of a scalar function          
+unconstrained optimization     
+Gradient method     . See also
+Method of steepest descent
+Graphs               
+bipartite                 
+center of     
+complete     
+Graphs (Cont.)
+complete bipartite      
+computer representation of 
+       
+connected               
+diameter of     
+digraphs (directed graphs) 
+             
+computer representation of 
+       
+defined     
+incidence matrix of     
+subgraphs     
+Euler     
+forest     
+incidence matrix of     
+planar      
+radius of     
+sparse     
+subgraphs     
+trees     
+vertices                
+adjacent          
+central     
+coloring           
+double labeling of     
+eccentricity of     
+exposed            
+four color theorem      
+scanning     
+weighted     
+Graphic data representation      
+Gravitation (Laplace’s equation) 
+   
+Gravity  acceleration of   
+Gravity constant  at the Earth’s
+surface    
+Greedy algorithm         
+Green  George       
+Green’s first formula          
+Green’s second formula          
+Green’s theorem:
+first and second forms of 
+   
+in the plane              
+Gregory  James       
+Gregory Newton’s (Newton’s)
+backward difference
+interpolation formula 
+       
+Gregory Newton’s (Newton’s)
+forward difference
+interpolation formula 
+       
+Growth restriction     
+Guidepoints     
+Guide to Available Mathematical
+Software (GAMS)     
+Guldin  Habakuk       
+Guldin’s theorem       
+Hadamard  Jacques       
+Half planes:
+complex analysis         
+mapping         
+Half range expansions (Fourier
+series)              
+Hamilton  William Rowan       
+Hamiltonian cycle     
+Hankel  Hermann       
+Hankel functions     
+Harmonic conjugate function
+(Laplace’s equation)     
+Harmonic functions               
+complex analysis         
+under conformal mapping     
+defined     
+Laplace’s equation              
+maximum modulus theorem 
+       
+potential theory              
+Harmonic oscillation       
+Heat equation                  
+Dirichlet problem         
+Laplace’s equation     
+numeric analysis              
+Crank Nicolson method 
+       
+explicit method              
+one dimensional     
+solution:
+by Fourier integrals         
+by Fourier series         
+by Fourier transforms 
+       
+steady two dimensional heat
+problems         
+two dimensional         
+unifying power of methods     
+Heat flow:
+Laplace’s equation     
+potential theory         
+Heat flow lines     
+Heaviside  Oliver       
+Heaviside calculus       
+Heaviside expansions     
+Heaviside function         
+Helix     
+Henry  Joseph      
+Hermite  Charles       
+Hermite interpolation     
+Hermitian form     
+Hermitian matrices                    
+Hertz  Heinrich      
+Hesse  Ludwig Otto       
+Hesse’s normal form     
+Heun  Karl       
+Heun’s method     . See also
+Improved Euler’s method
+Higher functions     . See also
+Special functions
+I   Index
+Higher order linear ODEs         
+homogeneous              
+nonhomogeneous         
+systems of  see Systems
+of ODEs
+Higher order ODEs (numeric
+analysis)         
+Euler method         
+Runge Kutta methods         
+Runge Kutta Nyström methods 
+       
+Higher transcendental functions     
+High frequency line equations     
+Hilbert  David              
+Hilbert spaces     
+Histograms      
+Holes  of domains     
+Homogeneous first order linear
+ODEs    
+Homogeneous higher order linear
+ODEs         
+Homogeneous linear systems      
+                      
+constant coefficient systems 
+       
+matrices and vectors              
+trivial solution     
+Homogeneous PDEs     
+Homogeneous second order linear
+ODEs       
+basis       
+with constant coefficients       
+complex roots       
+real double root       
+two distinct real roots       
+differential operators       
+Euler Cauchy equations       
+existence and uniqueness of
+solutions       
+general solution              
+initial value problem       
+modeling free oscillations of
+mass spring system       
+particular solution       
+reduction of order       
+Wronskian       
+Hooke  Robert    
+Hooke’s law    
+Householder  Alston Scott        
+Householder’s tridiagonalization
+method         
+Hyperbolic analytic functions
+(conformal mapping)         
+Hyperbolic cosine          
+Hyperbolic functions          
+formula for  A   A  
+inverse     
+Taylor series     
+Hyperbolic PDEs:
+defined     
+numeric analysis         
+Hyperbolic sine          
+Hypergeometric distributions 
+               
+Hypergeometric equations      
+       
+Hypergeometric functions          
+Hypergeometric series     
+Hypothesis      
+Hypothesis testing (in statistics) 
+               
+comparison of means           
+comparison of variances      
+errors in tests           
+for mean of normal distribution
+with known variance 
+         
+for mean of normal distribution
+with unknown variance 
+         
+one  and two sided alternatives 
+         
+Idempotent matrices     
+Identity mapping     
+Identity matrices     
+Identity operator (second order
+homogeneous linear ODEs)    
+Ill conditioned equations     
+Ill conditioned problems     
+Ill conditioned systems           
+   
+Ill conditioning (linear systems) 
+       
+condition number of a matrix 
+       
+matrix norms         
+vector norms     
+Image:
+conformal mapping     
+linear transformations     
+Imaginary axis (complex plane)     
+Imaginary part (complex numbers) 
+   
+Imaginary unit     
+Impedance (RLC circuits)    
+Implicit formulas     
+Implicit method:
+backward Euler scheme as     
+for hyperbolic PDEs     
+Implicit solution    
+Improper integrals:
+defined     
+residue integration         
+Improper node     
+Improved Euler’s method:
+error of               
+first order ODEs         
+Impulse  of a force     
+short impulses         
+unit impulse function     
+Incidence matrices (graphs and
+digraphs)     
+Incident edges     
+Inclusion theorems:
+defined     
+matrix eigenvalue problems 
+       
+Incomplete gamma functions 
+formula for  A  
+Inconsistent linear systems     
+Indefinite (quadratic form)     
+Indefinite integrals:
+defined     
+existence of         
+Indefinite integration (complex line
+integral)         
+Independence:
+of path     
+of path in domain (integrals)      
+   
+of random variables           
+Independent events            
+    
+Independent sample values      
+Independent variables:
+in calculus     
+in regression analysis      
+Indicial equation                   
+Indirect methods (solving linear
+systems)          
+Inference  statistical            
+Infinite dimensional vector space 
+   
+Infinite populations      
+Infinite sequences:
+bounded  A   A  
+monotone real  A   A  
+power series         
+Infinite series         
+Infinity:
+analytic of singular at         
+point at     
+Initial conditions:
+first order ODEs          
+heat equation               
+higher order linear ODEs:
+homogeneous     
+nonhomogeneous     
+one dimensional heat equation 
+   
+PDEs          
+second order homogeneous linear
+ODEs            
+systems of ODEs     
+two dimensional wave equation 
+   
+vibrating string     
+Initial point (vectors)     
+Initial value problem (IVP):
+defined   
+first order ODEs                
+Index I  
+Initial value problem (IVP): (Cont.)
+bell shaped curve    
+existence and uniqueness of
+solutions for       
+higher order linear ODEs     
+homogeneous         
+nonhomogeneous     
+Laplace transforms         
+for RLC circuit    
+second order homogeneous linear
+ODEs                
+systems of ODEs     
+Injective mapping       
+Inner product (dot product)     
+for complex vectors     
+invariance of     
+vector differential calculus 
+            
+applications         
+orthogonality         
+Inner product spaces         
+Input (driving force)             
+Instability  numeric vs. mathematical 
+   
+Integrals  see Line integrals
+Integral equations:
+defined     
+Laplace transforms         
+Integral of a function  Laplace
+transforms of         
+Integral transforms          
+Integrand          
+Integrating factors           
+defined    
+finding       
+Integration. See also Complex
+integration
+constant of    
+of Laplace transforms         
+numeric         
+adaptive         
+Gauss integration formulas 
+       
+rectangular rule     
+Simpson’s rule         
+trapezoidal rule         
+termwise  of power series      
+   
+Intermediate value theorem         
+Intermediate variables     
+Intermittent harvesting    
+INTERPOL  ALGORITHM     
+Interpolation     
+defined     
+numeric analysis              
+equal spacing         
+Lagrange         
+Newton’s backward difference
+formula         
+Newton’s divided difference 
+       
+Interpolation (Cont.)
+Newton’s forward difference
+formula         
+spline         
+Interpolation polynomial          
+Interquartile range      
+Intersection  of events            
+Intervals. See also Confidence
+intervals
+class      
+closed  A    
+convergence          
+open     A    
+Interval estimates      
+Invariance  of curl  A   A  
+Invariant rank     
+Invariant subspace     
+Inverse cosine     
+Inverse cotangent     
+Inverse Fourier cosine transform     
+Inverse Fourier sine transform     
+Inverse Fourier sine transform
+method     
+Inverse Fourier transform     
+Inverse hyperbolic function     
+Inverse hyperbolic sine     
+Inverse mapping          
+Inverse of a matrix               
+   
+cancellation laws         
+determinants of matrix
+products         
+formulas for         
+Gauss Jordan method 
+                
+Inverse sine     
+Inverse tangent     
+Inverse transform          
+Inverse transformation     
+Inverse trigonometric function     
+Irreducible     
+Irregular boundary (elliptic PDEs) 
+       
+Irrotational flow     
+Isocline    
+Isolated critical point     
+Isolated essential singularity     
+Isolated singularity     
+Isotherms                  
+Iteration (iterative) methods:
+numeric analysis         
+fixed point iteration         
+Newton’s (Newton Raphson)
+method         
+secant method         
+speed of convergence         
+numeric linear algebra          
+   
+Gauss Seidel iteration         
+Jacobi iteration         
+IVP  see Initial value problem
+Jacobi  Carl Gustav Jacob       
+Jacobians          
+Jacobi iteration         
+Jordan  Wilhelm       
+Joukowski airfoil         
+Kantorovich  Leonid Vitaliyevich 
+     
+KCL (Kirchhoff’s Current Law) 
+         
+Kernel     
+Kinetic friction  coefficient of    
+Kirchhoff  Gustav Robert      
+Kirchhoff’s Current Law (KCL) 
+         
+Kirchhoff’s law     
+Kirchhoff’s Voltage Law (KVL)     
+       
+Koopmans  Tjalling Charles       
+Kreyszig  Erwin       
+Kronecker  Leopold       
+Kronecker delta  A  
+Kronecker symbol     
+Kruskal  Joseph Bernard       
+KRUSKAL  ALGORITHM     
+Kruskal’s Greedy algorithm 
+             
+kth backward difference     
+kth central moment      
+kth divided difference     
+kth forward difference         
+kth moment            
+Kublanovskaya  V. N.     
+Kutta  Wilhelm       
+Kutta’s third order method     
+KVL  see Kirchhoff’s Voltage Law
+Lagrange  Joseph Louis      
+Lagrange interpolation         
+Lagrange’s form          
+Laguerre  Edmond       
+Laguerre polynomials          
+Laguerre’s equation         
+LAPACK     
+Laplace  Pierre Simon Marquis de 
+     
+Laplace equation                    
+        
+boundary value problem in
+spherical coordinates 
+       
+complex analysis         
+in cylindrical coordinates 
+       
+Fourier Legendre series         
+heat equation     
+numeric analysis              
+ADI method         
+difference equations         
+I   Index
+Laplace equation (Cont.)
+Dirichlet problem          
+       
+Liebmann’s method         
+in spherical coordinates     
+theory of solutions of          .
+See also Potential theory
+two dimensional heat equation 
+   
+two dimensional problems     
+uniqueness theorem for     
+Laplace integrals     
+Laplace operator     . See also
+Laplacian
+Laplace transforms         
+convolution         
+defined          
+of derivatives         
+differentiation of         
+Dirac delta function         
+existence         
+first shifting theorem (s shifting) 
+       
+general formulas     
+initial value problems         
+integral equations         
+of integral of a function         
+integration of         
+linearity of         
+notation     
+ODEs with variable coefficients 
+       
+partial differential equations 
+       
+partial fractions         
+second shifting theorem
+(t shifting)         
+short impulses         
+systems of ODEs         
+table of         
+uniqueness     
+unit step function (Heaviside
+function)         
+Laplacian                 A  
+in cylindrical coordinates 
+       
+heat equation     
+Laplace’s equation     
+in polar coordinates         
+in spherical coordinates     
+of u in polar coordinates     
+Lattice points         
+Laurent  Pierre Alphonse       
+Laurent series              
+analytic or singular at infinity 
+       
+point at infinity     
+Riemann sphere     
+singularities         
+zeros of analytic functions     
+Laurent’s theorem     
+LCL (lower control limit)      
+Least squares approximation  of a
+function         
+Least squares method              
+Least squares principle      
+Lebesgue  Henri       
+Left handed Cartesian coordinate
+system            A  
+Left hand limit (Fourier series)     
+Left sided tests            
+Legendre  Adrien Marie        
+    
+Legendre function     
+Legendre polynomials               
+   
+Legendre’s equation                
+        
+Laplace’s equation         
+special         
+Leibniz  Gottfried Wilhelm      
+Leibniz test for real series  A   A  
+Length:
+curves     
+vectors               
+Leonardo of Pisa       
+Leontief  Wassily       
+Leontief input output model     
+Leslie model     
+Level surfaces          
+LFTs  see Linear fractional
+transformations
+Libby  Willard Frank      
+Liebmann’s method         
+Likelihood function      
+Limit (sequences)     
+Limit cycle              
+Limit l     
+Limit point  A  
+Limit vector     
+Linear algebra     . See also
+Numeric linear algebra
+determinants         
+Cramer’s rule         
+general properties of         
+of matrix products         
+second order         
+third order         
+inverse of a matrix         
+cancellation laws         
+determinants of matrix
+products         
+formulas for         
+Gauss Jordan method 
+       
+linear systems         
+back substitution         
+elementary row operations     
+Gauss elimination         
+homogeneous         
+Linear algebra (Cont.)
+nonhomogeneous     
+solutions of         
+matrices and vectors         
+addition and scalar
+multiplication of 
+       
+diagonal matrices     
+linear independence and
+dependence of vectors 
+       
+matrix multiplication 
+                
+notation     
+rank of         
+symmetric and skew symmetric
+matrices         
+transposition of         
+triangular matrices     
+matrix eigenvalue problems 
+       
+applications         
+complex matrices and forms 
+       
+determining eigenvalues and
+eigenvectors         
+diagonalization of matrices 
+       
+eigenbases         
+orthogonal matrices         
+orthogonal transformations     
+quadratic forms         
+symmetric and skewsymmetric
+matrices 
+       
+transformation to principal
+axes     
+vector spaces:
+inner product spaces         
+linear transformations 
+       
+real         
+special         
+Linear combination:
+homogeneous linear ODEs:
+higher order     
+second order    
+of matrices          
+of vectors          
+of vectors in vector space     
+Linear dependence  of vectors 
+       
+Linear element     
+Linear equations  systems of  see
+Linear systems
+Linear fractional transformations
+(LFTs)              
+extended complex plane         
+mapping standard domains 
+       
+Index I  
+Linear independence:
+scalar triple product     
+of vectors         
+Linear inequalities     
+Linear interpolation         
+Linearity:
+Fourier transforms         
+Laplace transforms         
+line integrals     
+Linearity principle  see Superposition
+principle
+Linearization         
+Linearized system     
+Linearly dependent functions:
+higher order homogeneous linear
+ODEs          
+second order homogeneous linear
+ODEs        
+Linearly dependent sets          
+Linearly dependent vectors          
+   
+Linearly independent functions:
+higher order homogeneous linear
+ODEs               
+second order homogeneous linear
+ODEs        
+Linearly independent sets          
+   
+Linearly independent vectors         
+Linearly related variables      
+Linear mapping     . See also Linear
+transformations
+Linear ODEs        
+first order       
+Bernoulli equation       
+homogeneous    
+nonhomogeneous       
+population dynamics       
+higher order         
+homogeneous         
+nonhomogeneous         
+higher order homogeneous     
+second order        
+homogeneous            
+nonhomogeneous             
+Linear operations:
+Fourier cosine and sine
+transforms as     
+integration as     
+Linear operators (second order
+homogeneous linear ODEs)    
+Linear optimization  see Constrained
+(linear) optimization
+Linear PDEs     
+Linear programming problems         
+normal form of problems         
+simplex method         
+degenerate feasible solution 
+       
+difficulties in starting         
+Linear systems               
+                 
+back substitution         
+defined          
+elementary row operations     
+Gauss elimination          
+       
+applications         
+back substitution         
+elementary row operations     
+operation count         
+row echelon form         
+Gauss Jordan elimination 
+       
+homogeneous                
+       
+constant coefficient systems 
+       
+matrices and vectors         
+ill conditioning         
+condition number of a matrix 
+       
+matrix norms         
+vector norms     
+iterative methods         
+Gauss Seidel iteration 
+       
+Jacobi iteration         
+LU factorization         
+Cholesky’s method         
+of m equations in n unknowns     
+nonhomogeneous               
+             
+solutions of              
+Linear transformations     
+motivation of multiplication by 
+       
+vector spaces         
+Line integrals              
+basic properties of     
+bounds for         
+definition of              
+existence of     
+indefinite integration and
+substitution of limits 
+       
+path dependence of  and
+integration around closed
+curves         
+representation of a path         
+vector integral calculus         
+definition and evaluation of 
+       
+path dependence of         
+work done by a force         
+Lines of constant revenue     
+Lines of force         
+LINPACK     
+Liouville  Joseph       
+Liouville’s theorem         
+Lipschitz  Rudolf      
+Lipschitz condition    
+Ljapunov  Alexander Michailovich 
+     
+Local error     
+Local maximum (unconstrained
+optimization)     
+Local minimum (unconstrained
+optimization)     
+Local truncation error     
+Logarithm         
+natural                A  
+Taylor series     
+Logarithmic decrement    
+Logarithmic integral  formula for  A  
+Logarithm of base ten  formula for 
+A  
+Logistic equation       
+Longest path     
+Loss of significant digits (numeric
+analysis)         
+Lotka  Alfred J.       
+Lotka Volterra population model 
+       
+Lot tolerance percent defective
+(LTPD)      
+Lower confidence limits      
+Lower control limit (LCL)      
+Lower triangular matrices     
+LTPD (lot tolerance percent
+defective)      
+LU factorization (linear systems) 
+       
+Machine numbers     
+Maclaurin  Colin            
+Maclaurin series              
+Main diagonal:
+determinants     
+matrix          
+Malthus  Thomas Robert     
+Malthus’ law       
+Maple     
+Maple Computer Guide     
+Mapping                    
+bijective       
+conformal         
+boundary value problems 
+         A  
+defined     
+geometry of analytic functions 
+       
+linear fractional
+transformations 
+       
+Riemann surfaces         
+by trigonometric and
+hyperbolic analytic
+functions         
+I   Index
+Mapping (Cont.)
+of disks         
+fixed points of     
+of half planes onto half planes     
+identity     
+injective       
+inverse          
+linear     . See also Linear
+transformations
+one to one       
+spectral mapping theorem     
+surjective       
+Marconi  Guglielmo      
+Marginal distributions            
+    
+of continuous distributions      
+of discrete distributions 
+         
+Mariotte  Edme      
+Markov  Andrei Andrejevitch       
+Markov process          
+MATCHING  ALGORITHM      
+Matching      
+assignment problems      
+complete      
+maximum cardinality            
+Mathcad     
+Mathematica     
+Mathematica Computer Guide     
+Mathematical models  see Models
+Mathematical modeling  see
+Modeling
+Mathematical statistics       
+         
+acceptance sampling           
+errors in           
+rectification           
+confidence intervals           
+for mean of normal distribution
+with known variance 
+         
+for mean of normal distribution
+with unknown variance 
+         
+for parameters of distributions
+other than normal      
+for variance of a normal
+distribution           
+correlation analysis           
+defined      
+test for correlation coefficient 
+         
+defined      
+goodness of fit           
+hypothesis testing           
+comparison of means 
+         
+comparison of variances      
+errors in tests           
+for mean of normal distribution
+with known variance 
+         
+for mean of normal distribution
+with unknown variance 
+         
+one  and two sided
+alternatives           
+main purpose of      
+nonparametric tests           
+point estimation of parameters 
+         
+quality control           
+for mean           
+for range           
+for standard deviation      
+for variance           
+random sampling           
+regression analysis           
+confidence intervals in 
+         
+defined      
+Matlab     
+Matrices                       
+addition and scalar multiplication
+of         
+calculations with         
+condition number of         
+definitions and terms          
+        
+diagonal     
+diagonalization of         
+eigenvalues         
+equality of          
+fundamental     
+inverse of                   
+cancellation laws         
+determinants of matrix
+products         
+formulas for         
+Gauss Jordan method 
+                
+matrix multiplication      
+                
+applications of         
+cancellation laws         
+determinants of matrix
+products         
+scalar         
+normal          
+notation     
+orthogonal         
+rank of         
+square     
+symmetric and skew symmetric 
+       
+transposition of         
+triangular     
+unitary              
+Matrix eigenvalue problems 
+                
+applications         
+choice of numeric method for 
+   
+complex matrices and forms 
+       
+determining eigenvalues and
+eigenvectors         
+diagonalization of matrices 
+       
+eigenbases         
+inclusion theorems         
+orthogonal matrices         
+orthogonal transformations     
+power method         
+QR factorization         
+quadratic forms         
+symmetric and skew symmetric
+matrices         
+transformation to principal axes 
+   
+tridiagonalization         
+Matrix multiplication               
+       
+applications of         
+cancellation laws         
+determinants of matrix products 
+       
+scalar         
+Matrix norms              
+Maximum cardinality matching 
+                     
+Maximum flow:
+Ford Fulkerson algorithm 
+        
+and minimum cut set     
+Maximum increase:
+gradient of a scalar field     
+unconstrained optimization     
+Maximum likelihood estimates
+(MLEs)           
+Maximum likelihood method 
+               
+Maximum modulus theorem         
+Maximum principle     
+Mean(s)                 
+comparison of           
+control chart for           
+of normal distributions:
+confidence intervals for 
+         
+hypothesis testing for 
+         
+probability distributions 
+         
+addition of           
+transformation of           
+sample      
+Index I  
+Mean square convergence (orthogonal
+series)         
+Mean value (fluid flow)       
+Mean value property:
+analytic functions         
+harmonic functions     
+Mean value theorem     
+for double integrals     
+for surface integrals     
+for triple integrals         
+Median                 
+Mendel  Gregor      
+Meromorphic function     
+Mesh incidence matrix     
+Mesh points (lattice points  nodes) 
+       
+Mesh size     
+Method of characteristics (PDEs)     
+Method of least squares          
+   
+Method of moments      
+Method of separating variables 
+     
+circular membrane     
+partial differential equations 
+            
+Fourier series         
+satisfying boundary conditions 
+       
+two ODEs from wave
+equation         
+vibrating string         
+Method of steepest descent         
+Method of undetermined coefficients:
+higher order homogeneous linear
+ODEs          
+nonhomogeneous linear systems
+of ODEs     
+second order nonhomogeneous
+linear ODEs            
+Method of variation of parameters:
+higher order nonhomogeneous
+linear ODEs              
+nonhomogeneous linear systems
+of ODEs         
+second order nonhomogeneous
+linear ODEs             
+Minimization (normal form of linear
+optimization problems)     
+Minimum (unconstrained
+optimization)     
+Minimum cut set     
+Minors  of determinants     
+Mixed boundary condition (twodimensional
+heat equation) 
+   
+Mixed boundary value problem      
+   . See also Robin problem
+elliptic PDEs         
+heat conduction         
+Mixed type PDEs     
+Mixing problems    
+MLEs (maximum likelihood
+estimates)           
+ML inequality         
+Möbius  August Ferdinand       
+Möbius strip     
+Möbius transformations     . See
+also Linear fractional
+transformations (LFTs)
+Models   
+Modeling            
+and concept of solution     
+defined   
+first order ODEs     
+initial value problem   
+separable ODEs       
+typical steps of     
+and unifying power of
+mathematics     
+Modification Rule (method of
+undetermined coefficients):
+higher order homogeneous linear
+ODEs         
+second order nonhomogeneous
+linear ODEs        
+Modulus (complex numbers)     
+Moments  method of      
+Moments of inertia  of a region     
+Moment vector (vector moment) 
+   
+Monotone real sequences 
+A   A  
+Moore  Edward Forrest       
+MOORE  ALGORITHM     
+Moore’s BFS algorithm          
+    
+Morera’s theorem     
+Moulton  Forest Ray       
+Multinomial distribution      
+Multiple complex roots     
+Multiple points  curves with     
+Multiplication:
+of complex numbers           
+   
+in conditional probability 
+         
+matrix              
+applications of         
+cancellation laws         
+determinants of matrix
+products         
+scalar         
+of means           
+of power series     
+scalar                       
+termwise          
+of transforms     . See also
+Convolution
+Multiplicity  algebraic          
+Multiply connected domains      
+   
+Cauchy’s integral formula 
+       
+Cauchy’s integral theorem 
+       
+Multistep methods              
+Adams Bashforth methods 
+       
+Adams Moulton methods 
+       
+defined     
+first order ODEs     
+Mutually exclusive events       
+    
+m nmatrix     
+Nabla     
+NAG (Numerical Algorithms Group 
+Inc.)     
+National Institute of Standards and
+Technology (NIST)     
+Natural condition (spline
+interpolation)     
+Natural frequency    
+Natural logarithm               
+A  
+Natural spline     
+n dimensional vector spaces     
+Negative (scalar multiplication)     
+Negative definite (quadratic form) 
+   
+Neighborhood          
+Net flow  through cut set         
+NETLIB     
+Networks:
+defined     
+flow problems in         
+cut sets         
+flow augmenting paths 
+       
+paths     
+Neumann  Carl       
+Neumann  John von       
+Neumann boundary condition     
+Neumann problem          
+elliptic PDEs     
+Laplace’s equation     
+two dimensional heat equation 
+   
+Neumann’s function     
+NEWTON  ALGORITHM     
+Newton  Sir Isaac      
+Newton Cotes formulas          
+Newton’s (Gregory Newton’s)
+backward difference
+interpolation formula         
+Newton’s divided difference
+interpolation              
+
+I   Index
+Newton’s divided difference
+interpolation formula         
+Newton’s (Gregory Newton’s)
+forward difference
+interpolation formula 
+            
+Newton’s law of cooling       
+Newton’s law of gravitation     
+Newton’s (Newton Raphson)
+method              
+Newton’s second law              
+        
+Neyman  Jerzy                
+Nicolson  Phyllis       
+Nicomedes       
+Nilpotent matrices     
+NIST (National Institute of Standards
+and Technology)     
+Nodal incidence matrix     
+Nodal lines              
+Nodes              
+degenerate         
+improper     
+interpolation     
+proper     
+spline interpolation     
+trapezoidal rule     
+vibrating string     
+Nonbasic variables     
+Nonconservative physical systems 
+   
+Nonhomogeneous linear ODEs:
+convolution         
+first order       
+higher order              
+second order        
+defined    
+method of undetermined
+coefficients       
+modeling electric circuits 
+     
+modeling forced oscillations 
+     
+particular solution    
+solution by variation of
+parameters        
+Nonhomogeneous linear systems 
+                            
+        
+method of undetermined
+coefficients     
+method of variation of parameters 
+       
+Nonhomogeneous PDEs     
+Nonlinear ODEs    
+first order    
+higher order homogeneous 
+   
+second order    
+Nonlinear PDEs     
+Nonlinear systems  qualitative
+methods for         
+linearization         
+Lotka Volterra population model 
+       
+transformation to first order
+equation in phase plane 
+       
+Nonparametric tests (statistics) 
+               
+Nonsingular matrices          
+Norm(s):
+matrix              
+orthogonal functions     
+vector                    
+Normal accelerations     
+Normal acceleration vector     
+Normal derivative     
+defined     
+mixed problems          
+Neumann problems     
+solutions of Laplace’s equation 
+   
+Normal distributions            
+    
+as approximation of binomial
+distribution           
+confidence intervals:
+for means of           
+for variances of           
+distribution function           
+means of:
+confidence intervals for 
+         
+hypothesis testing for 
+         
+numeric values           
+tables  A    A   
+two dimensional      
+working with normal tables 
+         
+Normal equations                
+Normal form (linear optimization
+problems)                   
+Normalizing  eigenvectors     
+Normal matrices          
+Normal mode:
+circular membrane     
+vibrating string         
+Normal plane     
+Normal random variables      
+Normal vectors          
+Not rejecting a hypothesis      
+No trend hypothesis      
+nth order linear ODEs          
+nth order ODEs         
+nth partial sum     
+Fourier series     
+of series     
+nth roots     
+nth roots of unity     
+Null hypothesis      
+Nullity          
+Null space          
+Numbers:
+acceptance      
+Bernoulli’s law of large numbers 
+    
+chromatic      
+complex              
+addition of          
+conjugate     
+defined     
+division of     
+multiplication of          
+polar form of         
+subtraction of     
+condition              
+Fibonacci     
+floating point form of         
+machine     
+random      
+Number of degrees of freedom       
+    
+Numerics  see Numeric analysis
+Numerical Algorithms Group  Inc.
+(NAG)     
+Numerically stable algorithms      
+   
+Numerical Recipes     
+Numeric analysis (numerics) 
+       
+algorithms     
+basic error principle     
+error propagation     
+errors of numeric results         
+floating point form of numbers 
+       
+interpolation         
+equal spacing         
+Lagrange         
+Newton’s backward difference
+formula         
+Newton’s divided difference 
+       
+Newton’s forward difference
+formula         
+spline         
+loss of significant digits         
+numeric differentiation         
+numeric integration         
+adaptive         
+Gauss integration formulas 
+       
+rectangular rule     
+Simpson’s rule         
+trapezoidal rule         
+for ODEs         
+first order         
+higher order         
+Index I  
+numeric integration (Cont.)
+for PDEs         
+elliptic         
+hyperbolic         
+parabolic         
+roundoff         
+software for         
+solution of equations by iteration 
+       
+fixed point iteration         
+Newton’s (Newton Raphson)
+method         
+secant method         
+speed of convergence         
+spline interpolation         
+Numeric differentiation         
+Numeric integration         
+adaptive         
+Gauss integration formulas 
+       
+rectangular rule     
+Simpson’s rule         
+trapezoidal rule         
+Numeric linear algebra         
+curve fitting         
+least squares method         
+linear systems     
+Gauss elimination         
+Gauss Jordan elimination 
+       
+ill conditioning norms 
+       
+iterative methods         
+LU factorization         
+matrix eigenvalue problems 
+       
+inclusion theorems         
+power method         
+QR factorization         
+tridiagonalization         
+Numeric methods:
+choice of          
+defined     
+n nmatrix     
+Nyström  E. J.     
+Objective function          
+OCs (operating characteristics)      
+OC curve  see Operating
+characteristic curve
+Odd functions         
+Odd periodic extension         
+ODEs  see Ordinary differential
+equations
+Ohm  Georg Simon      
+Ohm’s law    
+One dimensional heat equation     
+One dimensional wave equation 
+       
+
+One parameter family of curves       
+One sided alternative (hypothesis
+testing)           
+One sided tests      
+One step methods               
+One to one mapping       
+Open annulus     
+Open circular disk     
+Open integration formula     
+Open intervals     A    
+Open Leontief input output model 
+   
+Open set  in complex plane     
+Operating characteristic curve (OC
+curve)                  
+Operating characteristics (OCs)      
+Operational calculus         
+Operation count (Gauss elimination) 
+   
+Operators            
+Optimal solutions (normal form of
+linear optimization problems) 
+   
+Optimization:
+combinatorial               
+assignment problems 
+         
+flow problems in networks 
+       
+Ford Fulkerson algorithm for
+maximum flow 
+        
+shortest path problems 
+       
+constrained (linear)              
+normal form of problems 
+       
+simplex method         
+unconstrained:
+basic concepts         
+method of steepest descent 
+       
+Optimization methods     
+Optimization problems      
+       
+normal form of problems 
+       
+objective     
+simplex method         
+degenerate feasible solution 
+       
+difficulties in starting         
+Order:
+and complexity of algorithms     
+Gauss elimination     
+of iteration process     
+of PDE     
+singularities     
+Ordering (Greedy algorithm)     
+Order statistics      
+Ordinary differential equations
+(ODEs)    
+autonomous        
+defined        
+first order      
+direction fields      
+Euler’s method       
+exact       
+geometric meanings of      
+initial value problem       
+linear       
+modeling     
+numeric analysis         
+orthogonal trajectories       
+separable       
+higher order linear         
+homogeneous              
+nonhomogeneous         
+systems of  see Systems of
+ODEs
+Laplace transforms         
+convolution         
+defined          
+of derivatives         
+differentiation of         
+Dirac delta function         
+existence         
+first shifting theorem
+(s shifting)         
+general formulas     
+initial value problems 
+       
+integral equations         
+of integral of a function 
+       
+integration of         
+linearity of         
+notation     
+ODEs with variable
+coefficients         
+partial differential equations 
+       
+partial fractions         
+second shifting theorem
+(t shifting)         
+short impulses         
+systems of ODEs         
+table of         
+uniqueness     
+unit step function (Heaviside
+function)         
+linear    
+nonlinear    
+numeric analysis         
+first order ODEs         
+higher order ODEs         
+second order linear        
+homogeneous       
+nonhomogeneous        
+second order nonlinear    
+I   Index
+Ordinary differential equations (Cont.)
+series solutions of ODEs         
+Bessel functions          
+       
+Bessel’s equation         
+Frobenius method         
+Legendre polynomials 
+       
+Legendre’s equation          
+power series method         
+systems of         
+basic theory         
+constant coefficient         
+conversion of nth order ODEs
+to         
+homogeneous     
+Laplace transforms         
+linear                   
+       
+matrices and vectors         
+as models of applications 
+       
+nonhomogeneous              
+nonlinear         
+in phase plane               
+       
+qualitative methods for
+nonlinear systems 
+       
+Orientable surfaces         
+Oriented curve     
+Oriented surfaces  integrals over 
+       
+Origin (vertex)     
+Orthogonal  to a vector     
+Orthogonal coordinate curves  A  
+Orthogonal expansion     
+Orthogonal functions:
+defined     
+Sturm Liouville Problems 
+       
+Orthogonality:
+trigonometric system              
+vector differential calculus 
+       
+Orthogonal matrices               
+     A    
+Orthogonal polynomials     
+Orthogonal series (generalized
+Fourier series)         
+completeness         
+mean square convergence 
+       
+Orthogonal trajectories:
+defined    
+first order ODEs       
+Orthogonal transformations      
+A    
+Orthogonal vectors               
+Orthonormal functions               
+Orthonormal system     
+Oscillations:
+forced       
+free       
+harmonic       
+second order linear ODEs:
+homogeneous       
+nonhomogeneous       
+Osculating plane          
+Outcomes:
+of experiments            
+probability theory      
+Outer normal derivative          
+Outliers           
+Output (response to input)         
+   
+Overdamping       
+Overdetermined linear systems     
+Overflow (floating point numbers) 
+   
+Overrelaxation factor     
+Paired comparison            
+Pappus  theorem of     
+Pappus of Alexandria       
+Parabolic PDEs:
+defined     
+numeric analysis         
+Parallelogram law     
+Parallel processing of products (on
+computer)     
+Parameters                
+estimation of      
+point estimation of           
+probability distributions 
+    
+of a sample      
+Parameter curves     
+Parametric representations      
+       
+Parseval  Marc Antoine       
+Parseval equality     
+Parseval’s identity     
+Parseval’s theorem     
+Partial derivatives  A   A  
+defined  A  
+first (first order)  A  
+second (second order)  A  
+third (third order)  A  
+of vector functions     
+Partial differential equations (PDEs) 
+            
+basic concepts of         
+d’Alembert’s solution         
+defined     
+double Fourier series solution 
+       
+heat equation         
+Dirichlet problem         
+Partial differential equations (Cont.)
+Laplace’s equation     
+solution by Fourier integrals 
+       
+solution by Fourier series 
+       
+solution by Fourier transforms 
+       
+steady two dimensional heat
+problems         
+unifying power of methods 
+   
+homogeneous     
+Laplace’s equation         
+boundary value problem in
+spherical coordinates 
+       
+in cylindrical coordinates 
+       
+Fourier Legendre series 
+       
+in spherical coordinates     
+Laplace transforms  solution by 
+       
+Laplacian in polar coordinates 
+       
+linear     
+method of separating variables 
+       
+Fourier series         
+satisfying boundary conditions 
+       
+two ODEs from wave
+equation         
+nonhomogeneous     
+nonlinear     
+numeric analysis         
+elliptic         
+hyperbolic         
+parabolic         
+ODEs vs.   
+wave equation         
+d’Alembert’s solution 
+       
+solution by separating
+variables         
+two dimensional         
+Partial fractions (Laplace transforms) 
+       
+Partial pivoting                   
+Partial sums  of series               
+Particular solution(s):
+first order ODEs       
+higher order homogeneous linear
+ODEs     
+nonhomogeneous linear systems 
+   
+second order linear ODEs:
+homogeneous            
+nonhomogeneous    
+Index I  
+Partitioning  of a path     
+Pascal  Blaise       
+Pascal  Étienne       
+Paths:
+alternating      
+augmenting           
+closed                   
+deformation of     
+directed      
+flow augmenting               
+    
+flow problems in networks     
+integration by use of         
+longest     
+partitioning of     
+principle of deformation of     
+shortest     
+shortest path problems         
+simple closed     
+Path dependence (line integrals) 
+                     
+defined     
+and integration around closed
+curves         
+Path independence     
+Cauchy’s integral theorem     
+in a domain D in space     
+proof of  A   A  
+Stokes’s Theorem applied to 
+   
+Path of integration          
+Pauli spin matrices     
+p charts           
+PDEs  see Partial differential
+equations
+Pearson  Egon Sharpe        
+Pearson  Karl              
+Period     
+Periodic boundary conditions     
+Periodic extensions         
+Periodic function              
+Periodic Sturm Liouville problem 
+   
+Permutations:
+of n things taken k at a time 
+    
+of n things taken k at a time with
+repetitions           
+probability theory           
+Perron  Oskar       
+Perron Frobenius Theorem     
+Perron’s theorem              
+Pfaff  Johann Friedrich       
+Pfaffian form     
+p fold connected domains         
+Phase angle    
+Phase lag    
+Phase plane          
+linear systems          
+nonlinear systems     
+Phase plane method     
+linear systems:
+critical points         
+graphing solutions         
+nonlinear systems     
+linearization         
+Lotka Volterra population
+model         
+transformation to first order
+equation in         
+Phase plane representations     
+Phase portrait     
+linear systems              
+nonlinear systems     
+Picard  Emile       
+Picard’s Iteration Method    
+Picard’s theorem     
+Piecewise continuous functions     
+Piecewise smooth path of integration 
+        
+Piecewise smooth surfaces          
+Pivot               
+Pivot equation                    
+Planar graphs      
+Plane:
+complex     
+extended              
+finite     
+sets in     
+normal     
+osculating          
+phase          
+linear systems          
+nonlinear systems     
+rectifying     
+tangent              
+vectors in     
+Plane curves     
+Planimeters     
+Poincaré  Henri              
+Points:
+boundary            
+branch     
+center          
+critical              
+asymptotically stable     
+and conformal mapping      
+   
+constant coefficient systems of
+ODEs         
+isolated     
+nonlinear systems     
+stable          
+stable and attractive          
+unstable          
+equilibrium       
+fixed          
+guidepoints     
+at infinity     
+initial (vectors)     
+Points: (Cont.)
+lattice         
+limit  A  
+mesh         
+regular     
+regular singular       
+saddle          
+sample      
+singular          
+analytic functions     
+regular       
+spiral              
+stagnation     
+stationary     
+terminal (vectors)     
+Point estimation of parameters
+(statistics)                 
+defined      
+maximum likelihood method 
+         
+Point set  in complex plane     
+Point source (flow modeling)     
+Point spectrum     
+Poisson  Siméon Denis       
+Poisson distributions            
+      A   
+Poisson equation:
+defined     
+numeric analysis         
+ADI method         
+difference equations         
+Dirichlet problem         
+mixed boundary value
+problem         
+Poisson’s integral formula:
+derivation of         
+potential theory         
+series for potentials in disks 
+       
+Polar coordinates     
+Laplacian in         
+notation for     
+two dimensional wave equation
+in     
+Polar form  of complex numbers 
+            
+Polar moment of inertia  of a region 
+   
+Poles (singularities)         
+of order m     
+and zeros     
+Polynomials     
+characteristic               
+Chebyshev     
+interpolation          
+Laguerre          
+Legendre                   
+orthogonal     
+trigonometric:
+approximation by         
+I   Index
+Polynomials (Cont.)
+complex     
+of the same degree N     
+Polynomial approximations     
+Polynomial interpolation          
+Polynomially bounded     
+Polynomial matrix              
+Populations:
+infinite      
+for statistical sampling      
+Population dynamics:
+defined    
+logistic equation       
+Position vector     
+Positive correlation      
+Positive definite (quadratic form) 
+   
+Positive sense  on curve     
+Possible values (random variables) 
+    
+Postman problem     
+Potential (potential function)     
+complex         
+Laplace’s equation     
+Poisson’s integral formula for 
+       
+Potential theory                
+       
+conformal mapping for boundary
+value problems         
+defined     
+electrostatic fields         
+complex potential         
+superposition         
+fluid flow         
+harmonic functions         
+heat problems         
+Laplace’s equation          
+Poisson’s integral formula         
+Power function  of a test            
+Power method (matrix eigenvalue
+problems)              
+Power series              
+convergence behavior of         
+convergence tests          
+A   A  
+functions given by         
+Maclaurin series     
+in powers of x     
+radius of convergence         
+ratio test         
+root test         
+sequences         
+series         
+Taylor series         
+uniform convergence         
+and absolute convergence     
+properties of         
+termwise integration         
+test for         
+Power series method              
+extension of  see Frobenius method
+idea and technique of         
+operations on         
+theory of         
+Practical resonance    
+Predator prey population model 
+       
+Predictor corrector method     
+PRIM  ALGORITHM     
+Prim  Robert Clay       
+Prim’s algorithm               
+Principal axes  transformation to     
+Principal branch  of logarithm     
+Principal directions     
+Principal minors     
+Principal part     
+of isolated singularities     
+of singularities          
+Principal value (complex numbers) 
+             
+complex logarithm     
+general powers     
+Principle of deformation of path     
+Prior estimates     
+Probability      
+axioms of      
+basic theorems of           
+conditional           
+definitions of           
+independent events      
+Probability distributions            
+binomial           
+continuous           
+discrete           
+hypergeometric           
+mean and variance of           
+multinomial      
+normal           
+Poisson           
+of several random variables 
+         
+addition of means           
+addition of variances 
+         
+continuous two dimensional
+distributions      
+discrete two dimensional
+distributions           
+function of random variables 
+    
+independence of random
+variables           
+marginal distributions 
+         
+symmetric      
+two dimensional      
+continuous      
+discrete           
+uniform           
+Probability function            
+          
+Probability theory                 
+binomial coefficients           
+combinations                 
+distributions (probability
+distributions)      
+binomial           
+continuous           
+discrete           
+hypergeometric           
+mean and variance of 
+         
+normal           
+Poisson           
+of several random variables 
+         
+events           
+experiments           
+factorial function      
+outcomes      
+permutations           
+probability:
+basic theorems of           
+conditional           
+definition of           
+independent events      
+random variables           
+continuous           
+discrete           
+Problem of existence    
+Problem of uniqueness    
+Producers      
+Producer’s risk      
+Product:
+inner (dot)     
+for complex vectors     
+invariance of     
+vector differential calculus 
+            
+of matrix     
+determinants of         
+inverting     
+matrix multiplication          
+parallel processing of (on
+computer)     
+scalar multiplication     
+scalar triple              
+vector (cross):
+in Cartesian coordinates 
+A   A  
+vector differential calculus 
+            
+Product method     . See also
+Method of separating variables
+Projection (vectors)     
+Proper node     
+Pseudocode     
+Pure imaginary complex numbers 
+   
+Index I  
+QR factorization         
+Quadrant  of a circle     
+Quadratic forms (matrix eigenvalue
+problems)         
+Quadratic interpolation 
+       
+Qualitative methods      
+     
+defined     
+for nonlinear systems         
+linearization         
+Lotka Volterra population
+model         
+transformation to first order
+equation in phase plane 
+       
+Quality control (statistics) 
+               
+for mean           
+for range           
+for standard deviation      
+for variance           
+Quantitative methods     
+Quasilinear equations          
+Quotient:
+complex numbers     
+difference     
+Rayleigh          
+Radius:
+of convergence     
+defined     
+power series              
+of a graph     
+Random experiments       
+               
+Randomly selected samples      
+Randomness            . See also
+Random variables
+Random numbers      
+Random number generators      
+Random sampling (statistics) 
+         
+Random selections      
+Random variables                  
+    
+continuous                  
+    
+defined      
+dependent      
+discrete                 
+function of      
+independence of           
+marginal distribution of       
+    
+normal      
+occurrence of      
+probability distributions of 
+         
+addition of means           
+addition of variances           
+continuous two dimensional
+distributions      
+discrete two dimensional
+distributions           
+function of random variables 
+    
+independence of random
+variables           
+marginal distributions 
+         
+skewness of      
+standardized      
+two dimensional            
+Random variation      
+Range      
+control chart for           
+defined      
+of f     
+Rank:
+of A     
+of a matrix               
+in terms of column vectors 
+       
+in terms of determinants     
+of R     
+Raphson  Joseph       
+Rational functions              
+Ratio test (power series)         
+Rayleigh  Lord (John William Strutt) 
+             
+Rayleigh equation     
+Rayleigh quotient          
+Reactance (RLC circuits)    
+Real axis (complex plane)     
+Real different roots    
+Real double root           
+Real functions  complex analytic
+functions vs.     
+Real inner product space     
+Real integrals  residue integration of 
+       
+Fourier integrals         
+improper integrals         
+of rational functions of cos
+sin          
+Real part (complex numbers)     
+Real pre Hilbert space     
+Real roots:
+different    
+double       
+higher order homogeneous linear
+ODEs:
+distinct         
+multiple         
+second order homogeneous linear
+ODEs:
+distinct       
+double       
+u
+u
+Real sequence     
+Real series  A   A  
+Real vector spaces               
+   
+Recording  of sample values 
+         
+Rectangular cross section     
+Rectangular matrix     
+Rectangular membrane R         
+Rectangular rule (numeric
+integration)     
+Rectifiable (curves)     
+Rectification (acceptance sampling) 
+         
+Rectifying plane     
+Recurrence formula     
+Recurrence relation     
+Recursion formula     
+Reduced echelon form     
+Reduction of order (second order
+homogeneous linear ODEs) 
+     
+Regions       
+bounded       
+center of gravity of mass in     
+closed       
+critical      
+feasibility     
+fundamental (exponential
+function)     
+moments of inertia of     
+polar moment of inertia of     
+rejection      
+sets in complex plane     
+total mass of     
+volume of     
+Regression analysis       
+               
+confidence intervals in 
+         
+defined      
+Regression coefficient       
+         
+Regression curve      
+Regression line                  
+Regular point     
+Regular singular point       
+Regular Sturm Liouville problem 
+   
+Rejectable quality level (RQL)      
+Rejection:
+of a hypothesis      
+of products      
+Rejection region      
+Relative class frequency      
+Relative error     
+Relative frequency (probability):
+of an event      
+class      
+cumulative      
+I   Index
+Relaxation methods     
+Remainder     
+of a series     
+of Taylor series     
+Remarkable parallelogram     
+Removable singularities     
+Repeated factors          
+Representation     
+by Fourier series     
+by power series     
+spectral     
+Residual               
+Residues               
+at mth order pole     
+at simple poles         
+Residue integration         
+formulas for residues         
+of real integrals         
+Fourier integrals         
+improper integrals         
+of rational functions of cos
+sin          
+several singularities inside
+contour         
+Residue theorem         
+Resistance  apparent    
+Resonance:
+practical    
+undamped forced oscillations 
+     
+Resonance factor    
+Response to input  see Output
+(response to input)
+Resultant  of forces     
+Riccati equation    
+Riemann  Bernhard       
+Riemannian geometry       
+Riemann sphere     
+Riemann surfaces (conformal
+mapping)         
+Right hand derivatives (Fourier
+series)     
+Right handed Cartesian coordinate
+system           A   A  
+Right handed triple     
+Right hand limit (Fourier series)     
+Right sided tests            
+Risks of making false decisions      
+RKF method  see
+Runge Kutta Fehlberg method
+RK methods  see Runge Kutta
+methods
+RKN methods  see
+Runge Kutta Nyström methods
+Robin problem:
+Laplace’s equation     
+two dimensional heat equation     
+Rodrigues  Olinde       
+Rodrigues’s formula          
+Romberg integration          
+u
+u
+Roots:
+complex:
+higher order homogeneous
+linear ODEs         
+second order homogeneous
+linear ODEs       
+complex conjugate       
+differing by an integer     
+Frobenius method     
+distinct (Frobenius method)     
+double (Frobenius method)     
+of equations     
+multiple complex     
+nth     
+nth roots of unity     
+simple complex         
+Root test (power series)         
+Rotation (vorticity of flow)     
+Rounding     
+Rounding unit     
+Roundoff (numeric analysis)         
+Roundoff errors               
+Roundoff rule     
+Rows:
+determinants     
+matrix               
+Row echelon form         
+Row equivalent matrices         
+Row equivalent systems     
+Row operations (linear systems)      
+   
+Row scaling (Gauss elimination)     
+Row “sum” norm     
+Row vectors               
+RQL (rejectable quality level)      
+Runge  Carl       
+Runge  Karl       
+RUNGE KUTTA  ALGORITHM     
+Runge Kutta Fehlberg (RKF)
+method     
+error of     
+first order ODEs         
+Runge Kutta (RK) methods          
+error of     
+first order ODEs         
+higher order ODEs         
+Runge Kutta Nyström (RKN)
+methods              
+Rutherford  E.            
+Rutherford Geiger experiments 
+          
+Rutishauser  Heinz        
+Saddle point          
+Samples:
+for experiments      
+in mathematical statistics 
+         
+selection of           
+Sample covariance      
+Sampled function     
+Sample distribution function      
+Sample mean            
+Sample points      
+Sample regression line      
+Sample size            
+Sample space                  
+Sample standard deviation      
+Sample variance            
+Sampling:
+from a population      
+random           
+with replacement      
+binomial distribution      
+hypergeometric distribution 
+         
+in statistics      
+without replacement            
+binomial distribution 
+         
+hypergeometric distribution 
+         
+Sampling plan           
+Scalar(s)               
+Scalar fields  vector fields that are
+gradients of         
+Scalar functions:
+defined     
+vector differential calculus     
+Scalar matrices     
+Scalar multiplication              
+of matrices and vectors         
+vectors in   space and   space 
+       
+Scalar triple product              
+Scale (vectors)         
+Scanning labeled vertices     
+Schrödinger  Erwin       
+Schur  Issai       
+Schur’s inequality     
+Schur’s theorem     
+Schwartz  Laurent       
+Secant  formula for  A  
+Secant method (numeric analysis) 
+            
+Second boundary value problem  see
+Neumann problem
+Second order determinants         
+Second order differential operator    
+Second order linear ODEs        
+homogeneous       
+basis       
+with constant coefficients 
+     
+differential operators       
+Euler Cauchy equations 
+     
+existence and uniqueness of
+solutions       
+Index I  
+Second order linear ODEs (Cont.)
+general solution              
+initial value problem       
+modeling free oscillations of
+mass spring system 
+     
+reduction of order       
+superposition principle       
+Wronskian       
+nonhomogeneous        
+defined    
+general solution       
+method of undetermined
+coefficients       
+modeling electric circuits       
+modeling forced oscillations 
+     
+solution by variation of
+parameters        
+Second order method  improved
+Euler method as     
+Second order nonlinear ODEs    
+Second order PDEs         
+Second (second order) partial
+derivatives  A  
+Second shifting theorem (t shifting) 
+       
+Second transmission line equation 
+   
+Seidel  Philipp Ludwig von       
+Self starting methods     
+Sense reversal (complex line
+integrals)     
+Separable equations       
+Separable ODEs    
+first order       
+extended method       
+modeling       
+reduction of nonseparable ODEs
+to       
+Separating variables  method of 
+     
+circular membrane     
+partial differential equations 
+            
+Fourier series         
+satisfying boundary conditions 
+       
+two ODEs from wave
+equation         
+vibrating string         
+Separation constant     
+Sequences (infinite sequences):
+bounded  A   A  
+convergent              
+divergent     
+limit point of  A  
+monotone real  A   A  
+power series         
+real     
+Series  A   A  
+binomial     
+conditionally convergent     
+convergent          
+cosine     
+derived     
+divergent          
+double Fourier:
+defined     
+rectangular membrane 
+       
+Fourier              
+convergence and sum or 
+       
+derivation of Euler formulas 
+       
+double         
+even and odd functions 
+       
+half range expansions         
+heat equation         
+from period   to  L 
+       
+Fourier Bessel              
+Fourier cosine               
+Fourier Legendre          
+       
+Fourier sine               
+one dimensional heat equation 
+   
+vibrating string     
+geometric          
+Taylor series     
+uniformly convergent     
+hypergeometric     
+infinite         
+Laurent              
+analytic or singular at infinity 
+       
+point at infinity     
+Riemann sphere     
+singularities         
+zeros of analytic functions     
+Maclaurin              
+orthogonal         
+completeness         
+mean square convergence 
+       
+power              
+convergence behavior of 
+       
+convergence tests          
+A   A  
+functions given by         
+Maclaurin series     
+in powers of x     
+radius of convergence 
+       
+ratio test         
+root test         
+p
+Series (Cont.)
+sequences         
+series         
+Taylor series         
+uniform convergence         
+real  A   A  
+Taylor              
+trigonometric          
+value (sum) of          
+Series solutions of ODEs         
+Bessel functions         
+of the first kind         
+of the second kind         
+Bessel’s equation         
+Bessel functions          
+       
+general solution         
+Frobenius method         
+indicial equation         
+typical applications         
+Legendre polynomials         
+Legendre’s equation          
+power series method         
+idea and technique of 
+       
+operations on         
+theory of         
+Sets:
+complete orthonormal     
+in the complex plane     
+cut               
+linearly dependent          
+linearly independent          
+   
+Shewhart  W. A.      
+Shifted function     
+Shortest path     
+Shortest path problems
+(combinatorial optimization) 
+             
+Bellman’s principle         
+complexity of algorithms 
+       
+Dijkstra’s algorithm         
+Moore’s BFS algorithm         
+Shortest spanning trees:
+combinatorial optimization      
+Greedy algorithm         
+Prim’s algorithm         
+defined     
+Short impulses (Laplace transforms) 
+       
+Sifting property     
+Significance (in statistics)      
+Significance level                  
+Significance tests      
+Significant digits         
+Similarity transformation     
+Similar matrices              
+Simple closed curves     
+I   Index
+Simple closed path     
+Simple complex roots         
+Simple curves     
+Simple events      
+Simple general properties of the line
+integral         
+Simple poles     
+Simplex method         
+degenerate feasible solution 
+       
+difficulties in starting         
+Simplex table     
+Simplex tableau     
+Simple zero     
+Simply connected domains           
+        
+SIMPSON  ALGORITHM     
+Simpson  Thomas       
+Simpson’s rule          
+adaptive integration with         
+numeric integration         
+Simultaneous corrections     
+Sine function:
+conformal mapping by         
+formula for  A   A  
+Sine integral            A   A    A  
+Single precision  floating point
+standard for     
+Singularities (singular  having a
+singularity)               
+analytic functions     
+essential         
+inside a contour         
+isolated     
+isolated essential     
+Laurent series         
+principal part of     
+removable     
+Singular matrices     
+Singular point          
+analytic functions     
+regular       
+Singular solutions:
+first order ODEs       
+higher order homogeneous linear
+ODEs     
+second order homogeneous linear
+ODEs        
+Singular Sturm Liouville problem 
+        
+Sink(s):
+motion of a fluid                
+   
+networks     
+Size:
+of matrices     
+sample            
+Skew Hermitian form     
+Skew Hermitian matrices           
+        
+Skewness  of a random variables      
+Skew symmetric matrices           
+            
+Slack variables          
+Slope field (direction field)      
+Smooth curves          
+Smooth surfaces     
+Sobolev  Sergei L’Vovich       
+Software:
+for data representation in statistics 
+    
+numeric analysis         
+variable step size selection in     
+Solenoid     
+Solutions. See also specific methods
+defined        
+first order ODEs:
+concept of     
+equilibrium solutions       
+explicit solutions    
+family of solutions   
+general solution       
+implicit solutions    
+particular solution       
+singular solution       
+solution by calculus   
+trivial solution        
+graphing in phase plane         
+higher order homogeneous linear
+ODEs     
+general solution              
+particular solution     
+singular solution     
+linear systems          
+nonhomogeneous linear systems:
+general solution     
+particular solution     
+PDEs     
+second order homogeneous linear
+ODEs:
+general solution              
+linear dependence and
+independence of    
+particular solution       
+singular solution        
+second order linear ODEs    
+second order nonhomogeneous
+linear ODEs:
+general solution       
+particular solution    
+systems of ODEs          
+Solution curves     
+Solution space     
+Solution vector          
+SOR (successive overrelaxation)     
+SOR formula for Gauss Seidel     
+Sorting  of sample values           
+Source(s):
+motion of a fluid               
+networks     
+Source intensity     
+Source line (flow modeling)     
+Span  of vectors     
+Spanning trees          
+Sparse graphs     
+Sparse matrices          
+Sparse systems     
+Special functions          
+formulas for  A   A  
+theory of     
+Special vector spaces         
+Specific circulation  of flow     
+Spectral density     
+Spectral mapping theorem     
+Spectral radius          
+Spectral representation     
+Spectral shift     
+Spectrum     
+of matrix     
+vibrating string     
+Speed          
+angular (rotation)     
+of convergence         
+Spherical coordinates  A   A  
+boundary value problem in 
+       
+defined     
+Laplacian in     
+Spiral point              
+Spline          
+Spline interpolation         
+Spring constant    
+Square error              
+Square matrices                
+            
+s shifting         
+Stability:
+of critical points     
+of solutions                 
+of systems         
+Stability chart     
+Stable algorithms          
+Stable and attractive critical points 
+        
+Stable critical points          
+Stable equilibrium solution       
+Stable systems    
+Stagnation points     
+Standard basis               
+Standard deviation                  
+Standard form:
+first order ODEs    
+higher order homogeneous linear
+ODEs     
+higher order linear ODEs     
+power series method     
+second order linear ODEs     
+   
+Standardized normal distribution 
+    
+Index I  
+Standardized random variables      
+Standard trick (confidence intervals) 
+    
+Stationary point (unconstrained
+optimization)     
+Statistics            . See also
+Mathematical statistics
+Statistical inference            
+Steady flow          
+Steady heat flow     
+Steady state case (heat problems) 
+   
+Steady state current    
+Steady state heat flow     
+Steady state solution               
+Steady two dimensional heat
+problems              
+Steepest descent  method of         
+Steiner  Jacob       
+Stem and leaf plots      
+Stencil (pattern  molecule  star)     
+Step by step methods     
+Step function           
+Step size          
+Stereographic projection     
+Stiff ODEs         
+Stiff systems         
+Stirling  James        
+Stirling formula        A  
+Stochastic matrices     
+Stochastic variables      . See also
+Random variables
+Stokes  Sir George Gabriel        
+     
+Stokes’s Theorem         
+Stream function     
+Streamline     
+Strength (flow modeling)     
+Strictly diagonally dominant matrices 
+   
+Sturm  Jacques Charles François 
+     
+Sturm Liouville equation     
+Sturm Liouville expansions     
+Sturm Liouville Problems         
+eigenvalues  eigenfunctions 
+       
+orthogonal functions         
+Subgraphs     
+Submarine cable equations     
+Submatrices     
+Subsidiary equation          
+Subspace  of vector space     
+Subtraction:
+of complex numbers     
+termwise  of power series     
+Success corrections     
+Successive overrelaxation (SOR)     
+Sufficient convergence condition 
+   
+Sum:
+of matrices     
+partial  of series               
+of a series          
+of vectors     
+Sum Rule (method of undetermined
+coefficients):
+higher order homogeneous linear
+ODEs     
+second order nonhomogeneous
+linear ODEs           
+Superlinear convergence     
+Superposition (electrostatic fields) 
+       
+Superposition (linearity) principle:
+higher order homogeneous linear
+ODEs     
+higher order linear ODEs     
+homogeneous linear systems 
+   
+PDEs         
+second order homogeneous linear
+ODEs            
+undamped forced oscillations    
+Surfaces  for surface integrals 
+       
+orientation of         
+representation of surfaces 
+       
+tangent plane and surface normal 
+       
+Surface integrals     
+defined     
+surfaces for         
+orientation of         
+representation of surfaces 
+       
+tangent plane and surface
+normal         
+vector integral calculus         
+orientation of surfaces 
+       
+without regard to orientation 
+       
+Surface normal              
+Surface normal vector         
+Surjective mapping       
+Sustainable yield    
+Symbol O     
+Symmetric coefficient matrix     
+Symmetric distributions      
+Symmetric matrices               
+            
+Systems of ODEs         
+basic theory of         
+constant coefficient         
+critical points          
+       
+graphing solutions in phase
+plane         
+Systems of ODEs (Cont.)
+conversion of nth order ODEs to 
+       
+homogeneous     
+Laplace transforms         
+linear         . See also Linear
+systems
+constant coefficient systems 
+       
+matrices and vectors         
+nonhomogeneous         
+matrices and vectors         
+calculations with         
+definitions and terms 
+                
+eigenvalues and eigenvectors 
+       
+systems of ODEs as vector
+equations         
+as models of applications:
+electrical network         
+mixing problem involving two
+tanks         
+nonhomogeneous              
+method of undetermined
+coefficients     
+method of variation of
+parameters         
+nonlinear systems:
+qualitative methods for 
+       
+transformation to first order
+equation in phase plane 
+       
+in phase plane     
+critical points         
+graphing solutions in         
+transformation to first order
+equation in         
+qualitative methods for nonlinear
+systems         
+linearization         
+Lotka Volterra population
+model         
+Tangent:
+to a curve     
+formula for  A  
+Tangent function  conformal mapping
+by         
+Tangential accelerations     
+Tangential acceleration vector     
+Tangent plane              
+Tangent vector          
+Target (networks)     
+Taylor  Brook       
+Taylor series              
+Taylor’s formula     
+Taylor’s theorem     
+I   Index
+t distribution                  
+A   
+Telegraph equations     
+Term(s):
+of a sequence     
+of a series     
+Terminal point (vectors)     
+Termination criterion         
+Termwise addition          
+Termwise differentiation      
+            
+Termwise integration           
+       
+Termwise multiplication          
+Termwise subtraction     
+Tests  statistical            
+Theory of special functions     
+Thermal diffusivity     
+Third boundary value problem  see
+Robin problem
+Third order determinants         
+Third (third order) partial derivatives 
+A  
+  space  vectors in          
+components of a vector         
+scalar multiplication         
+vector addition         
+Three sigma limits      
+Time (curves in mechanics)     
+TI Nspire     
+Todd  John       
+Tolerance (adaptive integration)     
+Torricelli  Evangelista      
+Torricelli’s law       
+Torsion  curvature and         
+Total differential        
+Total energy  of physical system     
+Total error     
+Total mass  of a region     
+Total orthonormal set     
+Total pivoting     
+Trace     
+Trail (shortest path problems)     
+closed trails         
+Euler trail     
+Trajectories          
+linear systems              
+nonlinear systems     
+Transcendental equations     
+Transducers    
+Transfer function     
+Transformation(s)     
+orthogonal     
+to principal axes     
+Transient solution        
+Transient state solution    
+Translation (vectors)     
+Transposition(s):
+of matrices or vectors          
+in samples      
+Trapezoidal rule          
+error bounds and estimate for 
+       
+numeric integration         
+Trees (graphs)          . See also
+Shortest spanning trees
+Trials (experiments)            
+Triangle inequality              
+Triangular form (Gauss elimination) 
+   
+Triangular matrices     
+Tricomi  Francesco       
+Tricomi equation          
+Tridiagonalization (matrix eigenvalue
+problems)         
+Tridiagonal matrices               
+Trigonometric analytic functions
+(conformal mapping)         
+Trigonometric function          
+   
+inverse     
+Taylor series     
+Trigonometric polynomials:
+approximation by         
+complex     
+of the same degree N     
+Trigonometric series          
+Trigonometric system               
+   
+Trihedron     
+Triple integrals     
+defined     
+mean value theorem for         
+vector integral calculus         
+Triply connected domains           
+   
+Trivial solution        
+homogeneous linear systems 
+   
+linear systems     
+Sturm Liouville problem     
+Truncating     
+t shifting         
+Tuning (vibrating string)     
+Twisted curves     
+  space (plane)  vectors in     
+components of a vector         
+scalar multiplication         
+vector addition         
+    matrix     
+Two dimensional heat equation 
+       
+Two dimensional normal distribution 
+    
+Two dimensional probability
+distributions:
+continuous      
+discrete           
+Two dimensional problems (potential
+theory)          
+
+Two dimensional random variables 
+          
+Two dimensional wave equation 
+            
+Two sided alternative (hypothesis
+testing)           
+Two sided tests                 
+Type I errors            
+Type II errors           
+UCL (upper control limit)      
+Unacceptable lots      
+Unconstrained optimization     
+basic concepts         
+method of steepest descent 
+       
+Uncorrelated related variables      
+Underdamping        
+Underdetermined linear systems     
+Underflow (floating point numbers) 
+   
+Undetermined coefficients  method of:
+higher order homogeneous linear
+ODEs     
+higher order linear ODEs     
+nonhomogeneous linear systems
+of ODEs     
+second order linear ODEs:
+homogeneous     
+nonhomogeneous       
+Uniform convergence:
+and absolute convergence     
+power series         
+properties of uniform
+convergence         
+termwise integration         
+test for         
+Uniform distributions            
+    
+Unifying power of mathematics    
+Union  of events           
+Uniqueness:
+of Laplace transforms     
+of Laurent series     
+of power series representation 
+       
+problem of    
+Uniqueness theorems:
+cubic splines     
+Dirichlet problem          
+first order ODEs       
+higher order homogeneous linear
+ODEs     
+Laplace’s equation     
+linear systems     
+proof of  A   A  
+second order homogeneous linear
+ODEs    
+systems of ODEs     
+Index I  
+Unitary matrices              
+Unitary systems     
+Unitary transformation     
+Unit binormal vector     
+Unit circle          
+Unit impulse function     . See also
+Dirac delta function
+Unit matrices          
+Unit normal vectors          
+Unit principal normal vector     
+Unit step function (Heaviside
+function)         
+Unit tangent vector     
+Unit vectors          
+Universal gravitational constant    
+Unknowns     
+Unrepeated factors         
+Unstable algorithms     
+Unstable critical points          
+Unstable equilibrium solution 
+     
+Unstable systems    
+Upper bound  for flows     
+Upper confidence limits      
+Upper control limit (UCL)      
+Upper triangular matrices     
+Value (sum) of series          
+Vandermonde  Alexandre Théophile 
+     
+Vandermonde determinant     
+Van der Pol  Balthasar       
+Van der Pol equation         
+Variables:
+artificial         
+basic     
+complex         
+control     
+controlled      
+dependent                 
+independent           
+intermediate     
+linearly      
+nonbasic     
+random                       
+continuous                  
+    
+defined      
+dependent      
+discrete                 
+function of      
+independence of           
+marginal distribution of       
+    
+normal      
+occurrence of      
+probability distributions of 
+         
+skewness of      
+Variables: (Cont.)
+standardized      
+two dimensional            
+slack          
+stochastic      
+uncorrelated related      
+Variable coefficients:
+Frobenius method         
+indicial equation         
+typical applications 
+       
+Laplace transforms ODEs with 
+       
+power series method         
+idea and technique of 
+       
+operations on         
+theory of         
+second order homogeneous linear
+ODEs    
+Variance(s)            
+comparison of      
+control chart for           
+equality of        
+of normal distributions 
+confidence intervals for 
+         
+of probability distributions 
+         
+addition of           
+transformation of           
+sample      
+Variation  random      
+Variation of parameters  method of:
+higher order linear ODEs     
+high order nonhomogeneous linear
+ODEs         
+nonhomogeneous linear systems
+of ODEs         
+second order linear ODEs:
+homogeneous     
+nonhomogeneous        
+Vectors          
+addition and scalar multiplication
+of         
+calculations with         
+definitions and terms      
+                      
+eigenvalues         
+eigenvectors         
+linear independence and
+dependence of         
+multiplying matrices by 
+       
+in the plane          
+systems of ODEs as vector
+equations         
+in   space     
+transposition of         
+Vector addition              
+Vector calculus              
+differential  see Vector differential
+calculus
+integral  see Vector integral
+calculus
+Vector differential calculus         
+curves         
+arc length of         
+length of     
+in mechanics         
+tangents to         
+and torsion         
+gradient of a scalar field         
+directional derivatives 
+       
+maximum increase     
+as surface normal vector 
+       
+vector fields that are 
+       
+inner product (dot product) 
+       
+applications         
+orthogonality         
+scalar functions     
+and vector calculus         
+vector fields         
+curl of         
+divergence of         
+that are gradients of scalar
+fields         
+vector functions         
+partial derivatives of     
+of several variables         
+vector product (cross product) 
+       
+applications         
+scalar triple product         
+vectors in   space and   space:
+components of a vector 
+       
+scalar multiplication         
+vector addition         
+Vector fields:
+defined     
+vector differential calculus 
+       
+curl of              
+divergence of         
+that are gradients of scalar
+fields         
+Vector functions:
+continuous         
+defined         
+differentiable     
+divergence theorem of Gauss 
+       
+of several variables         
+chain rules         
+mean value theorem     
+I   Index
+Vector functions: (Cont.)
+vector differential calculus 
+            
+partial derivatives of     
+of several variables         
+Vectors in   space and   space:
+components of a vector 
+       
+scalar multiplication         
+vector addition         
+Vector integral calculus         
+divergence theorem of Gauss 
+       
+double integrals         
+applications of         
+change of variables in 
+       
+evaluation of  by two
+successive integrations 
+       
+Green’s theorem in the plane 
+       
+line integrals         
+definition and evaluation of 
+       
+path dependence of         
+work done by a force         
+path dependence of line integrals 
+       
+defined     
+and integration around closed
+curves         
+Stokes’s Theorem         
+surface integrals         
+orientation of surfaces 
+       
+without regard to orientation 
+       
+surfaces for surface integrals 
+       
+representation of surfaces 
+       
+Vector integral calculus (Cont.)
+tangent plane and surface
+normal         
+triple integrals         
+Vector moment     
+Vector norms     
+Vector product (cross product):
+in Cartesian coordinates 
+A   A  
+vector differential calculus 
+            
+applications         
+scalar triple product         
+Vector spaces     
+complex              
+inner product spaces         
+linear transformations         
+real         
+special         
+Velocity               
+Velocity potential     
+Velocity vector          
+Venn  John        
+Venn diagrams      
+Verhulst  Pierre François      
+Verhulst equation       
+Vertices (graphs)                
+adjacent          
+central     
+coloring           
+double labeling of     
+eccentricity of     
+exposed            
+four color theorem      
+scanning     
+Vertex condition     
+Vertex incidence list (graphs)     
+Volta  Alessandro      
+Voltage drop    
+Volterra  Vito                     
+Volterra integral equations  of the
+second kind         
+Volume  of a region     
+Vortex (fluid flow)     
+Vorticity     
+Walk (shortest path problems)     
+Wave equation              
+d’Alembert’s solution         
+numeric analysis              
+one dimensional         
+solution by separating variables 
+       
+two dimensional         
+Weber’s equation     
+Weber’s functions       
+Weierstrass  Karl              
+Weierstrass approximation theorem 
+   
+Weierstrass M test for uniform
+convergence         
+Weighted graphs     
+Weight function     
+Well conditioned problems     
+Well conditioning (linear systems) 
+   
+Wessel  Caspar       
+Work done by a force         
+Work integral     
+Wronski  Josef Maria Höne      
+Wronskian (Wronski determinant):
+second order homogeneous linear
+ODEs       
+systems of ODEs     
+Zeros  of analytic functions     
+Zero matrix     
+Zero surfaces     
+Zero vector               
+z score      

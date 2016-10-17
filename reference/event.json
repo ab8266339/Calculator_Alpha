@@ -1,0 +1,23 @@
+{
+    "request": {
+        "intent": {
+            "name": "GetStatus"
+        },
+        "locale": "en-US",
+        "requestId": "EdwRequestId.80b654da-1d96-4a1a-8970-8de1599cd9eb",
+        "timestamp": "2016-10-15T15:33:01Z",
+        "type": "IntentRequest"
+    },
+    "session": {
+        "application": {
+            "applicationId": "amzn1.ask.skill.f7ba7e91-1835-414c-bf57-1c32d80c1b8c"
+        },
+        "attributes": {},
+        "new": false,
+        "sessionId": "SessionId.dc1f9ae7-8ac0-4636-96a1-0a2db3b7e645",
+        "user": {
+            "userId": "amzn1.ask.account.AEPOG7EZTWCISXW7UYJ7TJ6VWJ3UH7HHI4RMSAI4NC56KT3I7Z376SOX246SIQLSOQIPF4AIV56J5RPWA6AJG4XH4GBUDD4USNJPNMRZUQIHWE4RHLP2N6SELKM4XNGLRPMICJ6BMO3MJFEDQS6AE5BYE6PUKK7UBYUSFHR7224YDEGZCIO4GS3KS2SUCIVO3SNHWVZVASWO4UY"
+        }
+    },
+    "version": "1.0"
+}
